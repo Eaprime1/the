@@ -58,7 +58,7 @@ THE's function: intake before the first steps
 BirthMark
 BM-[YYYYMMDDHHMM]-[Location]-[DocName]
 Timestamp
-YYYYMMDDHHMI format (e.g., 202605121820)
+YYYYMMDDHHMM format (e.g., 202605121820)
 
 
 

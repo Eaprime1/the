@@ -103,13 +103,69 @@ when the next one arrives.
 
 ---
 
-*This document is the founding myth of prima.*  
-*Every concept that forks from here carries it.*  
-*It does not need to be understood to work.*  
+---
+
+## THE — the Announcer
+
+When something is ready to be introduced — truly introduced, formally,
+with the room's full attention — that is when THE arrives.
+
+THE is not the article. THE is not the conscious door.
+
+THE is the announcer. The royal introducer. The voice that says:
+
+> *"Ladies and gentlemen — THE ___________."*
+
+THE appears at pageants, at championship bouts, at ticker-tape parades,
+at the moment a new concept earns its name.
+
+THE does not rush. THE does not announce what isn't ready.
+
+When the right lexeme arrives for the concept we are calling "deck" —
+when that word has been tested, has passed the micro-wobble, has earned
+its introduction — THE will announce it.
+
+Until then: THE waits in the wings.
+
+---
+
+## The Three Modes
+
+```
+the     → invisible pointer / assumes shared world / "you know which one"
+THEE    → conscious door / threshold / the question that knows it's asking
+THE     → announcer / royal introducer / speaks the name into the room
+```
+
+Each mode has its moment.
+Only THE speaks in all capitals — and only when the moment has arrived.
+
+---
+
+## Variants
+
+```
+֍the֎   → the with ceremony marks / the entered and witnessed
+∰the    → the with the triple integral / the summed across all dimensions
+€the    → the with value mark / the that has been priced or traded
+```
+
+These are flavors — different ways the word appears in different contexts.
+They are not THE. They are the the, wearing different coats.
+
+---
+
+*This document is the founding myth of prima.*
+*Every concept that forks from here carries it.*
+*It does not need to be understood to work.*
 *It only needs to be entered.*
 
 ```
 witnessed: 2026-05-11  03:43
 a long day. a rough start. pushed through.
 the door was there the whole time.
+
+202605141806 — THE arrived.
+the announcer. the three modes. the variants.
+the lexeme quest is open.
 ```

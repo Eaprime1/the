@@ -39,7 +39,7 @@ The second prime establishes binary distinction.
 ### 5-prime
 
 ```text
-5 = zero / one / five
+5 = 0 / 1 / 5
 not-yet | singular | expanded-suit-field
 ```
 

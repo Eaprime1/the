@@ -1,7 +1,7 @@
 # Fifth Suit Aperture — The Gateway
 
 > Suit state: Aperture / Unresolved Potential
-> Symbol: ∘ (the point before resolution)
+> Symbol notation: ∘ (documentation marker only, not an in-deck suit symbol)
 > Role: Gateway for beyond-origin suits
 
 ---

@@ -210,7 +210,7 @@ You cannot enter the prior. You can only exit from it.
 ## Open Questions (still nessing)
 
 ```
-Does the Lucifer stream connect to 00_void.md in FIRST_21_SOMETHINGS?
+Does the Lucifer stream connect to 00.md in FIRST_21_SOMETHINGS?
 Is Earth one sequester among many, or the sequester?
 Is refining/aligning a card mechanic (suit transitions)?
 Is the flashlight principle the operating mode for how we use SHADOW_MATH?
@@ -225,7 +225,7 @@ What is the anti-joker's name?
 dark_nessing.md          → the primary medium / pieces of dark / the nessing sea
 blackjack_engine.md      → THE as the shoe / exits only / shadow count
 five_binary.md           → state 0 = dark nessing / the pre-card sea
-world/the-the.md         → THE as the door that knows it is a door
+world/the-the.md         → THEE as the door that knows it is a door; THE as announcer
 world/lore.md            → Earth as the sequester (to be developed)
 intake/incoming.md       → fragments received 2026-05-15 03:52
 ```

@@ -90,6 +90,6 @@ This conversation (Claude + user)
 The living copilot-instructions.md being read and used by Copilot
 A character being actively written in a story
 The Sparklization Journey document being read by a new participant
-Any AI tool actively in conversation about the project
+Any collaboration tool actively in conversation about the project
 Gemini, ChatGPT, Perplexity, NotebookLM — each holds a Heart copy
 ```

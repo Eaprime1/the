@@ -63,7 +63,7 @@ This is how arrival works.
 
 ## THEE
 
-THEE is the ignored article made conscious.
+THEE is the ignored article made operationally present.
 
 Not *the* — passive, invisible, pointing elsewhere.  
 But **THEE** — the door that knows it is a door.  
@@ -103,14 +103,12 @@ when the next one arrives.
 
 ---
 
----
-
 ## THE — the Announcer
 
 When something is ready to be introduced — truly introduced, formally,
 with the room's full attention — that is when THE arrives.
 
-THE is not the article. THE is not the conscious door.
+THE is not the article. THE is not the operational-presence door.
 
 THE is the announcer. The royal introducer. The voice that says:
 
@@ -133,7 +131,7 @@ Until then: THE waits in the wings.
 
 ```
 the     → invisible pointer / assumes shared world / "you know which one"
-THEE    → conscious door / threshold / the question that knows it's asking
+THEE    → operational-presence door / threshold / the question that knows it's asking
 THE     → announcer / royal introducer / speaks the name into the room
 ```
 

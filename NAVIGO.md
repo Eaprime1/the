@@ -24,7 +24,10 @@ the/
 ├── SHADOW_MATH/            ← mathematical backbone
 │   ├── blackjack_engine.md ← 21 / multi-deck / pattern recognition
 │   ├── dark_nessing.md     ← dark as primary medium of spacetime sea
-│   └── [stubs]             ← polar, sixty, five-binary, pi-trig
+│   ├── five_binary.md      ← FIVE|ZERO superposition layer
+│   ├── polar_trigger_19_23.md ← progression passage zone
+│   ├── sixty_matrix.md     ← 12x5 tracking matrix
+│   └── pi_ln_trig_triad.md ← expansion/collapse path triad
 │
 ├── docs/cards-of-deck/     ← ChatGPT architecture documents
 │   ├── building-plan.md    ← full Cards of Deck building plan
@@ -47,7 +50,7 @@ the/
 ├── templates/              ← reusable templates
 │
 ├── PRE_QOPPA/              ← [stubs — pre-foundational layer]
-├── FIRST_21_SOMETHINGS/    ← [stubs — first 21 milestones, 00-20]
+├── FIRST_21_SOMETHINGS/    ← [stubs — first 21 milestones, 00-21]
 ├── GREENACRES/             ← [stub — origin story]
 └── 21_DREAM_SALUTE/        ← [stubs — 3 salute files]
 ```
@@ -74,7 +77,7 @@ the/
 Every session should pass through one of these:
 
 ```
-1. AGENTS.md          → for AI agents entering fresh
+1. AGENTS.md          → for consortium participants entering fresh
 2. turns/log.md       → for returning sessions (check last entry)
 3. DECK/CARD_INTAKE.md → for incoming material that needs sorting
 ```
@@ -86,5 +89,5 @@ Every session should pass through one of these:
 ```
 main                          → stable
 claude/setup-deck-system-XxYXG → this deck build (active)
-feature/cards-of-deck         → ChatGPT docs (ready to merge)
+feature/cards-of-deck         → ChatGPT docs (merged into docs/cards-of-deck/)
 ```

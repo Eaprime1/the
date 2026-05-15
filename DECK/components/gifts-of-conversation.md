@@ -59,7 +59,7 @@ A gift can be:
 
 ## The Gift and the Giver
 
-A gift records who gave it — even if the giver is an AI tool, a conversation,
+A gift records who gave it — even if the giver is a collaboration tool, a conversation,
 a chance observation, or an unknown voice from the archive.
 
 Gifts are not anonymous. They carry their lineage.

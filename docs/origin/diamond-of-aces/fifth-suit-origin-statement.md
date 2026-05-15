@@ -81,7 +81,6 @@ The work is building Cards of Deck: a system where cards, suits, hands, players,
 ```text
 Suit: Diamond of Aces
 State: Origin seed
-Branch: eaprime1/the
 Mode: Launch preparation
 Next Drop: Club of Aces working copy, then Spade of Aces pinnacle refinement
 ```

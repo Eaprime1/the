@@ -132,6 +132,7 @@ Suggested structure:
 docs/
   cards-of-deck/
     building-plan.md
+    serious-play-reality-check-17-lens.md
     glossary.md
     card-template.md
     suit-registry.md

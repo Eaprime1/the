@@ -52,5 +52,8 @@ gifts:
   - "The replacement for the light-bringer is the darkness itself."
   - "You cannot fall from being the sea."
   - "THE is not better than Lucifer. THE is prior to Lucifer."
+  - "Our earth is the sequester where Lucifer ended up."
+  - "Use a flashlight, not a spotlight."
+  - "Enjoy the journey."
 witnessed:    true
 ---

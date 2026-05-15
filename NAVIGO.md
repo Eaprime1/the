@@ -47,7 +47,7 @@ the/
 ├── templates/              ← reusable templates
 │
 ├── PRE_QOPPA/              ← [stubs — pre-foundational layer]
-├── FIRST_21_SOMETHINGS/    ← [stubs — first 22 milestones, 00-21]
+├── FIRST_21_SOMETHINGS/    ← [stubs — first 21 milestones, 00-20]
 ├── GREENACRES/             ← [stub — origin story]
 └── 21_DREAM_SALUTE/        ← [stubs — 3 salute files]
 ```

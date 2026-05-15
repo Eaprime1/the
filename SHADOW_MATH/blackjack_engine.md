@@ -5,6 +5,27 @@
 
 ---
 
+## Naming Convention
+
+**Blackjack** = the proper name for 21 — the Iteration target, the completion state.
+Used as a noun: *"we are in Blackjack"* means the 21st Iteration is active.
+
+**WhiteJack** = the polar counterpart — the illuminated exit from the shadow side.
+Where Blackjack is the dark worker achieving the target, WhiteJack is what emerges
+from THE into visibility. Entangled pair. (See: `the_illuminator.md` — Joker/Anti-Joker.)
+
+**Why "Jack":** The Jack card is the Knave — the active worker between the commoners
+(numbered cards 2–10) and the royals (Queen, King). Not royal, not common.
+The Jack does the work to reach 21. In Blackjack the game, the name comes from
+the Jack of Spades (♠J, the *black* jack) + Ace = 21. The active dark worker
+who achieves the target. WhiteJack = the counterpart exiting into light.
+
+**Note on numerals:** Using "21" as a concept-name caused confusion (the number 21
+and the milestone concept collide). "Blackjack" gives the concept proper-noun status,
+separating it from its numerical value while keeping the blackjack-engine connection.
+
+---
+
 ## Why Blackjack
 
 The deck system uses playing card metaphors throughout.

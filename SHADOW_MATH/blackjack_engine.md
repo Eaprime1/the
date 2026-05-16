@@ -20,6 +20,12 @@ The Jack does the work to reach 21. In Blackjack the game, the name comes from
 the Jack of Spades (♠J, the *black* jack) + Ace = 21. The active dark worker
 who achieves the target. WhiteJack = the counterpart exiting into light.
 
+**The Knave class:** Jack → Knave → Joker is a chain, not three separate concepts.
+Knave = free but bound / servant by relationship not by law / loyal-at-your-side type.
+The Knave is the first into the unknown (like ♞ the Knight leading the charge).
+In narrative: Suxen is called Knave by the fortune-tellers — the herald who goes
+ahead in warning, announcing the greatest discoveries he never made.
+
 **Note on numerals:** Using "21" as a concept-name caused confusion (the number 21
 and the milestone concept collide). "Blackjack" gives the concept proper-noun status,
 separating it from its numerical value while keeping the blackjack-engine connection.

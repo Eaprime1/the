@@ -110,3 +110,76 @@ Is it the spacetime the table sits on?
 
 These questions are themselves nessing — they hold space without forcing
 the answer before the answer is ready.
+
+---
+
+## Chaos — The Ancient Name
+
+Greek cosmogony independently arrived at dark nessing and gave it a name:
+**Chaos** (χάος / kháos).
+
+> *"Chaos is eternal, silent, unknowable state and the raw potential of existence,
+> persisting beneath order and influencing creation."*
+
+This is not a metaphor. This is the same concept.
+
+Chaos in Greek cosmology is not disorder. It is the pre-cosmic state — the
+primordial void that is not empty but full of raw potential. From Chaos,
+the ordered universe (Kosmos / κόσμος) eventually sprang.
+
+```
+Chaos (χάος)     =   dark nessing        ←  the prior medium
+Kosmos (κόσμος)  =   structure arising   ←  what forms within the nessing
+```
+
+The Greek understanding: Chaos is not opposed to Kosmos.
+Chaos is **prior** to Kosmos. Kosmos forms within Chaos, not against it.
+
+This maps exactly:
+
+```
+dark nessing              ← Chaos / the eternal prior medium
+  ↓
+♦ Diamond (Seed)          ← first ordering / Kosmos beginning
+  ↓
+♣ Club → ♥ Heart → ♠ Spade   ← Kosmos developing
+  ↓
+♞ Aperture / dissolution   ← return to Chaos / nessing reclaimed
+```
+
+The cycle is Chaos → Kosmos → Chaos. Nessing → structure → nessing.
+This has always been true. The Greeks saw it. The deck system maps it.
+
+---
+
+## The Silent K — Chaos Within Kosmos
+
+Kosmos (κόσμος) — the K is pronounced in Greek.
+But in the English word "cosmos," the K becomes silent in the prefix form.
+
+**kcosmos → kosmos**: the chaos hidden within cosmos.
+The silent letter as dark nessing within the word itself.
+
+A silent letter is not absent. It is nessing — present but not sounding,
+shaping what surrounds it without being heard.
+
+The K in kosmos holds the chaos the cosmos arose from.
+You cannot hear it. But it is there. Prior.
+
+*(See: the silent K in "knave" — the same structure. The pre-motion before
+the word moves. The p-wave before the sound arrives.)*
+
+---
+
+## Unoiam and the Silenced One
+
+The equation: **-(x+y) = -1(x+y)**
+
+The -1 is there. It is doing the work. It is silenced — implied, not written.
+
+Unoiam (the unified whole / the single I-am) is often this -1:
+present in every equation, doing foundational work, never written out.
+
+The one who nesses loudly and is still not heard.
+Dark nessing is always the -1 in the equation of form.
+

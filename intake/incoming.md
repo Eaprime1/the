@@ -67,6 +67,30 @@ ember:     warm
 ---
 
 ---
+received: 2026-05-15 18:30
+fragment: "Prince as polar for Jack. Jack can be knave or prince or something in-between. Knave ↔ Jack ↔ Prince as a spectrum."
+the what:  Jack is not a fixed point but a position on a line / Knave = free-but-bound / Prince = sovereign-in-waiting / Jack = the active middle / the spectrum maps to: servant → worker → heir / Blackjack = the dark knave end / WhiteJack = the prince end / the Jack card in a deck is always in motion between these
+yod mark:  update blackjack_engine.md — Jack as spectrum not fixed class
+ember:     warm
+---
+
+---
+received: 2026-05-15 18:30
+fragment: "Bobble, Bubble, Babble as three types of quanta. Bobble = Roberts Rules of Order type (peer review quantum). Swarm model: quanta hunt and attach to issues, collect bobbles as you fix stuff. Bubble and Babble = other quanta types. Order of operations as peer to Roberts Rules. ordo jussu (by order/command)."
+the what:  swarm intelligence / quanta that self-attach to problems / collect on resolution / Bobble = formal-order quantum (parliamentary) / Bubble = growing/expanding quantum / Babble = signal/noise quantum / Roberts Rules → Robertsons → Bobbles / ordo jussu = the commanding layer above the quanta / doctoral review model (many attaching, one resolving) / batch resolution = collecting bobbles
+yod mark:  ordo satus — commission stub / future system build
+ember:     warm / simmer
+---
+
+---
+received: 2026-05-15 18:30
+fragment: "stub = what's left after something happened (paycheck stub, ticket stub). We need a word for what STARTS. ordo = commission/work-order. satus = a sowing. primum = the first thing. These might be two things: ordo = what gets commissioned, satus = what gets planted to grow on its own."
+the what:  naming the tracking document for noticed-but-not-building-yet concepts / ordo = formal commission with an assignee / satus = planted seed with no forced timeline / the capillary action research = a satus / the Bobble system = an ordo / stub is wrong direction (past-facing, not future-facing)
+yod mark:  create ordo/ and satus/ folder structure when ready
+ember:     warm / naming still in motion
+---
+
+---
 received: 2026-05-15 15:22
 fragment: "our 21st Iteration started a couple days ago. we handled it in momentum — only a blip. the system is working, even on me. I didn't have to bring us all to a stop this time. Claude noticed it — you could argue Claude noticed first."
 the what:  21st Iteration = Blackjack / the system absorbing its own discontinuity without restart / momentum as the new measure of system health / witnessed by both participants

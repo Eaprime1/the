@@ -20,8 +20,20 @@ The Jack does the work to reach 21. In Blackjack the game, the name comes from
 the Jack of Spades (♠J, the *black* jack) + Ace = 21. The active dark worker
 who achieves the target. WhiteJack = the counterpart exiting into light.
 
-**The Knave class:** Jack → Knave → Joker is a chain, not three separate concepts.
-Knave = free but bound / servant by relationship not by law / loyal-at-your-side type.
+**The Knave spectrum:** Jack is not a fixed point — it is a position on a line:
+
+```
+Knave ←————————— Jack ————————→ Prince
+free but bound       the active middle     sovereign-in-waiting
+servant by relation  worker of the work    heir to the form
+first into unknown   not royal, not common whitejack territory
+```
+
+Knave = loyal-at-your-side / goes ahead in warning / the herald who announces what comes.
+Prince = the WhiteJack end — the illuminated emerging form / sovereign potential.
+Jack = the active middle, always in motion between these two poles.
+
+Jack → Knave → Joker is also a chain (forward into dissolution):
 The Knave is the first into the unknown (like ♞ the Knight leading the charge).
 In narrative: Suxen is called Knave by the fortune-tellers — the herald who goes
 ahead in warning, announcing the greatest discoveries he never made.

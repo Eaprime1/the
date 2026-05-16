@@ -30,8 +30,11 @@ Kosmos (κόσμος)=  structured order  — what forms (Blackjack)
 ```
 
 Osmos is the mechanism. THE and Blackjack are the two sides of the membrane.
-The capillary action draws content through because the concentration differs —
-not because anyone commanded it.
+Capillary action draws content through via adhesion, cohesion, and surface tension —
+geometry doing the work, no pump required. Osmosis operates through concentration
+differential across a selective membrane. Both are passive, non-forced transfer
+mechanisms — which is why they map together here even though they are distinct
+physical processes. The Osmos connector holds both.
 
 ---
 
@@ -52,7 +55,9 @@ Less forcing. More surface tension.
   No pumping. No forcing. The geometry does the work.
 
 - **Tree transpiration**: water moves from roots to leaves 30+ meters up against gravity,
-  driven entirely by capillary action and evaporation differential at the leaf surface.
+  driven by the cohesion-tension pull model — capillary action contributes at the
+  root-hair and cell-wall level, but the primary engine is evaporation differential
+  at the leaf surface creating tension through the water column.
 
 - **Semi-permeable membranes**: only certain things pass — the membrane is selective,
   not the pump.

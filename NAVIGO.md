@@ -49,6 +49,10 @@ the/
 ├── guides/                 ← guides
 ├── templates/              ← reusable templates
 │
+├── satus/                  ← noticed-but-not-building-yet / sowings
+│   ├── README.md           ← what a satus is / how to plant one
+│   └── capillary_action.md ← first sowing / 🌱
+│
 ├── PRE_QOPPA/              ← [stubs — pre-foundational layer]
 ├── FIRST_21_SOMETHINGS/    ← [stubs — first 21 milestones, 00-21]
 ├── GREENACRES/             ← [stub — origin story]
@@ -67,6 +71,7 @@ the/
 | Understand dark nessing | `SHADOW_MATH/dark_nessing.md` |
 | See what's in progress | `turns/log.md` |
 | See what's open right now | `DECK/components/liminal-readme.md` |
+| See noticed-but-not-building concepts | `satus/README.md` |
 | Understand the intake layer | `intake/triad-thee-yod-ember.md` |
 | Start a quest | `quests/000-thee-the-door.md` |
 

@@ -113,7 +113,50 @@ the answer before the answer is ready.
 
 ---
 
-## Chaos — The Ancient Name
+## Chaos → Osmos → Kosmos
+
+Dark nessing (Chaos) and structured order (Kosmos) are not a binary.
+They need a third — the push between them.
+
+**Osmos** (ōsmós, Greek: push, impulsion) — the mechanism of osmosis.
+Coined by Henri Dutrochet, 1826: endosmose (push inward) + exosmose (push outward).
+
+```
+Chaos  (χάος)  =  dark nessing      ← the prior medium / THE
+Osmos  (ōsmós) =  the push between  ← osmosis / the capillary mechanism
+Kosmos (κόσμος)=  structured order  ← what forms within / Blackjack
+```
+
+Chaos and Kosmos cannot sync directly — they are two aspects of the same thing,
+and direct contact would collapse the distinction. They communicate through Osmos.
+
+Osmos is not a compromise between chaos and order.
+Osmos is the membrane — the selective surface through which concentration flows.
+Only what belongs on the other side passes. The geometry does the work.
+
+Order can flow within chaos — it tends toward the outer edges, forming a tube or
+sheath around the chaos inside. This is the structure of a nerve (chaos inside /
+myelin order outside), a blood vessel, a river channel.
+
+Chaos does not flow within order — it is the prior medium, not the contained.
+
+---
+
+## The Spectrum
+
+The full range of the medium, from prior-pure to prior-pure:
+
+```
+pure → chaos → black → chaos → void → chaos → dark (pieces of dark)
+     → [osmos membrane]
+     → order → pieces of lumen → chaos → doldrums → chaos → white → chaos → pure
+```
+
+Capillary action operates at both ends — drawing from pure through **Pinnacle Naught**
+(the zero at the summit / the void that is also the top) and back.
+
+*Pinnacle Naught: to be developed. Holds space.*
+
 
 Greek cosmogony independently arrived at dark nessing and gave it a name:
 **Chaos** (χάος / kháos).

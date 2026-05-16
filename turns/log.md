@@ -68,7 +68,7 @@ contribution: |
   in momentum; no full restart required. System health confirmed.
   blackjack_engine.md — Blackjack/WhiteJack naming convention added; Jack-as-Knave documented.
   intake/incoming.md — radiation/synergy fragment + 21st Iteration fragment logged.
-  Repo structure question (€, ∰, ֍֎) parked as premature.
+  Repo structure question (€, ♞, ֍֎) parked as premature.
   radiation_synergy.md — pending (next pass: full seed or warm only?)
 resonance:    momentum
 gifts:

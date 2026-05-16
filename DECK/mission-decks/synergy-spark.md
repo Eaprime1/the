@@ -37,7 +37,7 @@ could have produced alone: that is Synergy Spark.
 - The moment when two unrelated cards recognize each other
 - A metaphor from Play Wonka that solves a Work Deck problem
 - A tool built for one context that works in three others
-- The connections between AI tools in conversation about the same project
+- The connections between collaboration tools in conversation about the same project
   (Claude + Gemini + ChatGPT + Perplexity + NotebookLM all touching the same archive)
 - The dark nessing concept emerging in a different conversation and finding its home here
 ```

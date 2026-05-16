@@ -92,11 +92,10 @@ This session is creating the foundational structure for the first time.
 
 ### What's Open
 
-- Mission decks (Work, Play Wonka, Create Pandora, Synergy Spark) need content
-- SHADOW_MATH/ files need full content (blackjack engine, etc.)
-- Missing stubs from copilot-instructions.md need to be created
+- Mission decks need active cards and usage examples
+- SHADOW_MATH docs need cross-link cleanup and next-stage development
+- FIRST_21_SOMETHINGS stubs are aligned and now await development content
 - Gemini documents haven't arrived yet
-- ChatGPT docs from feature/cards-of-deck need to be merged in
 - prima.yaml needs updating to reference the deck system
 
 ### What to Pick Up First

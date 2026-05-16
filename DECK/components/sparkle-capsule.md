@@ -37,6 +37,8 @@ they are entering without needing the full history.
   "session_anchor": "",
   "card": {
     "name": "",
+    "id": "",
+    "timestamp": "",
     "suit": "",
     "drop_state": 0,
     "deck": ""

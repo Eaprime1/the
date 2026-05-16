@@ -1,6 +1,6 @@
 # CLAUDE.md — Claude Agent Context
 
-> For Claude AI when working in this repository.
+> For the Claude platform when working in this repository.
 > Timestamp: `202605141806`
 
 ---
@@ -23,7 +23,7 @@ Your designated branch: `claude/setup-deck-system-XxYXG`
 - `DECK/CARD_INTAKE.md` — 10-question protocol
 - `SHADOW_MATH/blackjack_engine.md` — mathematical backbone
 - `SHADOW_MATH/dark_nessing.md` — the primary medium concept
-- `SHADOW_MATH/` stubs — polar, sixty, five-binary, pi-trig
+- `SHADOW_MATH/` docs — polar, sixty, five-binary, pi-trig
 - `AGENTS.md` — agent entry point
 - `NAVIGO.md` — navigation guide
 - `docs/cards-of-deck/` — ChatGPT's architecture documents (merged)
@@ -32,7 +32,6 @@ Your designated branch: `claude/setup-deck-system-XxYXG`
 
 ## What's Still Open
 
-- `turns/log.md` needs a session entry for `202605141806`
 - `prima.yaml` needs updating to reference the deck system
 - `PRE_QOPPA/`, `FIRST_21_SOMETHINGS/`, `GREENACRES/`, `21_DREAM_SALUTE/` — stubs created but empty
 - Gemini documents not yet arrived — hold space

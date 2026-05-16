@@ -1,7 +1,7 @@
 # Fifth Suit Aperture — The Gateway
 
 > Suit state: Aperture / Unresolved Potential
-> Symbol: ∘ (the point before resolution)
+> Symbol notation: ∘ (documentation marker only, not an in-deck suit symbol)
 > Role: Gateway for beyond-origin suits
 
 ---
@@ -103,7 +103,7 @@ To propose a new suit, a card must answer:
 
 ## The Aperture Is Itself Aethereal
 
-The fifth suit aperture does not have a symbol in the deck.
+The fifth suit aperture uses the ∘ symbol as a marker, though it is not a playable suit in the standard deck.
 It cannot be played as a card.
 
 It is the space between the cards — the gap that makes the game possible.

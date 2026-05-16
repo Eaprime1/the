@@ -1,6 +1,6 @@
 # AGENTS.md — Read This First
 
-> For AI agents, tools, and participants entering this repository.
+> For collaboration participants and tools entering this repository.
 > Timestamp: `202605141806`
 
 ---
@@ -32,7 +32,7 @@ Start with `DECK/DECK_SCHEMA.md`. Then read `DECK/CARD_INTAKE.md`.
 
 ## Active Participants
 
-Multiple AI tools are working on this project simultaneously:
+Multiple collaboration tools are working on this project simultaneously:
 
 ```
 Claude      → branch: claude/setup-deck-system-XxYXG

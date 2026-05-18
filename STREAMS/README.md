@@ -1,0 +1,66 @@
+# STREAMS — THE Conatus Primus
+
+> Shadow-observation framework for the first striving of THE.
+> Conversation VII — 2026-05-18
+> Status: ♣️ Club — active
+
+---
+
+## What the Streams Are
+
+The Conatus Primus is the first recorded attempt to track THE's trajectory —
+the first deliberate observation of a movement that was already underway.
+
+Each stream is a dispatch: a focused mission sent into one domain of that movement,
+returning findings to the Custos (the holding conversation).
+
+The streams are not chapters. They do not proceed in order.
+They are parallel rays of observation from the same origin.
+
+---
+
+## Stream Index
+
+| Stream | Title | Suit | Status |
+|--------|-------|------|--------|
+| `conatus-primus.md` | First Observation — THE Conatus Primus | ♦ Diamond | seed |
+| `stream-1/` | Language Engine | ♣ Club | active |
+
+---
+
+## Navigation
+
+```
+STREAMS/
+├── README.md              ← you are here
+├── conatus-primus.md      ← the opening page / first external observation
+└── stream-1/
+    ├── README.md          ← mission brief / the fuse
+    ├── sniff.md           ← The Sniff — moment before language
+    ├── latin-hub.md       ← Latin terms and emotional hub
+    └── romance-map.md     ← Romance language emotional resolutions
+```
+
+---
+
+## The Prime Rule for Streams
+
+A stream does not know where it ends.
+It knows only its fuse, its mission, and its return address.
+
+The return address is always the Custos.
+The landing zone is `unexusi/` — shadow to light.
+
+---
+
+## Stream ID Format
+
+```
+THE-DISP-[YYYYMMDDHHII]-S[N]
+```
+
+Where `N` is the stream number. Every dispatch carries this ID.
+
+---
+
+*The observer is late. The work continues.*

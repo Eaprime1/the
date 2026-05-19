@@ -73,8 +73,9 @@ Pattern: docs/{topic-folder}/{slug}.md
 
 Derive slug from origin_title:
   - lowercase
-  - spaces → hyphens
-  - remove special characters except hyphens
+  - spaces and punctuation → hyphens
+  - collapse multiple consecutive hyphens to one
+  - trim leading and trailing hyphens
 
 Example:
   "The First Sparklization Journey"

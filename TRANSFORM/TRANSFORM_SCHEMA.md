@@ -97,10 +97,15 @@ Anyone reading it knows exactly where it came from and when.
 ♣ Club      = actively being edited / refined after conversion — carbonite
 ♥ Heart     = in active use / being read / shared — interactive
 ♠ Spade     = archived, canonical, stable — pinnacle
+∘ Aperture  = transition point — document type or state not yet resolved into the origin four
 ```
 
 A converted document enters as Diamond.
 It moves through suits as it is worked on and eventually archived.
+
+The ∘ Aperture suit is a documentation marker only — used when a document arrives
+in a form or state that does not yet fit cleanly into the four origin suits.
+It holds the document until the correct suit becomes clear.
 
 ---
 

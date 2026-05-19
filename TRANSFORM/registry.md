@@ -23,7 +23,11 @@ path          = location in this repository
 
 | slug | origin_type | origin_id | converted_at | version | path |
 |------|-------------|-----------|--------------|---------|------|
-| *(empty — first entry goes here)* | | | | | |
+| unexus-blackjack-iteration | gdoc | 15h_ppQ1T_FDuCv_Jl9XmudT4XolezBK4PCHRYo8yzd4 | 2026-05-19T15:47:00Z | 1 | docs/unexus/unexus-blackjack-iteration.md |
+| stream-1-language-engine-navigo | gdoc | 1vb5XHjhf4Y6HwPO8puETIKE0uT65Hy_S20tekzy7HX4 | 2026-05-19T15:47:00Z | 1 | docs/unexus/stream-1-language-engine-navigo.md |
+| stream-3-variable-constant-violation-chatgpt | gdoc | 1lJRWCHUG_wN_4-WPbbzY4yWcLId518X7aQ-8TJg_i3E | 2026-05-19T15:47:00Z | 1 | docs/unexus/stream-3-variable-constant-violation-chatgpt.md |
+| stream-4-shepherd-authority-perplexity | gdoc | 1XcfSgHo0kuzqiUgUeMWhvesBJ-_zbJijJu3UmHKfIoA | 2026-05-19T15:47:00Z | 1 | docs/unexus/stream-4-shepherd-authority-perplexity.md |
+| stream-5-mathematical-backbone-copilot | gdoc | 1HnweagjU0v4XOmUCRUDXLWw3K18-9hUnFRG9pfHXxRU | 2026-05-19T15:47:00Z | 1 | docs/unexus/stream-5-mathematical-backbone-copilot.md |
 
 ---
 

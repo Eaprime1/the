@@ -64,7 +64,7 @@ They do not finalize. They listen, test, reflect, and let the path appear ahead.
 02 = binary distinction
 03 = triadic relation
 04 = origin suit alignment
-05 = fifth-suit aperture
+05 = fifth-suit aperture (♞)
 06 = hand / holder awareness
 07 = table / context awareness
 08 = dealer / routing awareness

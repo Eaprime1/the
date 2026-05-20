@@ -196,7 +196,7 @@ The standard deck has two jokers — not one.
 Joker and Anti-Joker. Entangled. The bookends.
 
 ```
-Anti-Joker (dark wild)  ·  [suits: ♦♣♥♠♞]  ·  Joker (pure white)
+Anti-Joker (dark wild)  ·  [suits: ♦♣♥♠ · aperture: ∘]  ·  Joker (pure white)
       quark             ·  [gluon / binding field]  ·  antiquark
 ```
 

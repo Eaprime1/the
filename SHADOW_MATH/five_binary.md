@@ -103,7 +103,7 @@ five-prime 1 ↔   ♦ Diamond      ↔   seed state
 five-prime 2 ↔   ♣ Club         ↔   working state
 five-prime 3 ↔   ♥ Heart        ↔   aethereal / relational
 five-prime 4 ↔   ♠ Spade        ↔   pinnacle / complete
-five-prime 5 ↔   ♞ Aperture     ↔   beyond the four / dissolution
+ five-prime 5 ↔   ∘ Aperture     ↔   beyond the four / dissolution
 ```
 
 The suits are the five-prime rendered as a navigational system.

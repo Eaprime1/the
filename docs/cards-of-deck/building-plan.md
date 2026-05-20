@@ -40,7 +40,7 @@ Heart of Aces (♥)   = interactive presence / relational layer / aethereal copy
 
 These are the base lifecycle suits.
 
-## Fifth Suit Aperture
+## Fifth Suit Aperture (♞)
 
 The fifth suit is not merely suit number five.
 

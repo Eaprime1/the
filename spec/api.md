@@ -9,7 +9,7 @@ across five world-powers:
 - Salt
 - Oxygen
 - Water
-- EMF/light (UV, EMF load)
+- Lumen (EMF/light, UV, EMF load)
 
 The API is **conceptual** first. It can later be implemented in any
 language or transport (HTTP, local library, message bus).
@@ -23,7 +23,7 @@ language or transport (HTTP, local library, message bus).
   processing container with built-in imperative and limits.
 
 - **World-powers**  
-  Sugar, salt, oxygen, water, EMF/light as the primary fuels,
+  Sugar, salt, oxygen, water, lumen as the primary fuels,
   constraints, and stressors for the container.
 
 - **State axis X (-1000 → 0 → +1000)**  
@@ -75,7 +75,7 @@ ContainerLevels:
   salt: SAFE
   oxygen: SAFE
   water: SAFE
-  emf: SAFE
+  lumen: SAFE
   # optional context
   ph: null      # nullable; values from PhValues
   temp: null    # nullable; values from ThermalValues

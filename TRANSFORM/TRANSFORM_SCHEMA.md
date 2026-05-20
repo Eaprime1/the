@@ -1,7 +1,6 @@
 # TRANSFORM_SCHEMA — Document Metamorphosis System
 
 > Timestamp: `202605190752`
-> Branch: `claude/gdoc-to-markdown-Cm4Vp`
 > Status: Diamond → building
 
 ---
@@ -76,8 +75,8 @@ origin_id: ""               # Google Drive file ID or equivalent
 origin_url: ""              # canonical URL to origin document
 origin_title: ""            # title as it existed in origin
 origin_owner: ""            # author / owner at time of conversion
-origin_created: ""          # ISO 8601 date (from origin metadata)
-origin_modified: ""         # ISO 8601 datetime (last modified in origin)
+origin_created: ""          # ISO 8601 datetime (from origin metadata, e.g. 2026-05-19T12:39:56Z)
+origin_modified: ""         # ISO 8601 datetime (last modified in origin, e.g. 2026-05-19T12:41:50Z)
 converted_at: ""            # ISO 8601 datetime of this conversion
 converted_by: ""            # agent name / tool / human
 permanent: true             # this is the permanent md version

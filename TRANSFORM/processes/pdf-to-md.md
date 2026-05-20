@@ -68,7 +68,8 @@ Tool: google_drive_export_file
   → returns plain text content
 
 Then apply markdown formatting:
-  - Detect headings by font size changes (if available) or all-caps lines
+  - Detect headings by all-caps lines or lines followed by blank lines (font size not preserved in plain text)
+  - Mark heading detection as best-effort — plain-text export loses font metadata
   - Detect lists by leading bullet characters or numbering
   - Mark tables as best-effort (PDFs rarely export tables cleanly)
 ```
@@ -138,7 +139,9 @@ PDF extraction is imperfect. After assembly:
 
 ## Step 7 — Commit, Register, Card
 
-Same as gdoc-to-md Steps 5-7:
+Same as gdoc-to-md Steps 5-7.
+The `transform:` prefix is this system's defined extension of the repo's commit convention.
+
 ```bash
 git commit -m "transform: pdf → md — {title}"
 ```

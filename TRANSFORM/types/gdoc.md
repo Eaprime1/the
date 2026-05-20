@@ -51,7 +51,7 @@ id              → origin_id
 name            → origin_title
 createdTime     → origin_created
 modifiedTime    → origin_modified
-owners[0].emailAddress → origin_owner
+owners[0].displayName  → origin_owner  (preferred; use emailAddress only if displayName unavailable)
 webViewLink     → origin_url
 ```
 

@@ -94,7 +94,7 @@ Every session should pass through one of these:
 
 ---
 
-## Active Branches
+## Recent Branches
 
 ```
 main                              → stable

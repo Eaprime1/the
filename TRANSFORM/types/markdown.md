@@ -88,6 +88,7 @@ If the source document is updated after the first conversion:
 - Increment `version` in frontmatter
 - Update `origin_modified` and `converted_at`
 - Commit with message: `transform: update {slug} to version {n}`
+  (`transform:` is this system's defined extension of the repo's standard commit prefixes)
 
 ---
 

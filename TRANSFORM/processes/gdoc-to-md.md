@@ -35,7 +35,7 @@ Record:
   origin_id       = id
   origin_title    = name
   origin_url      = webViewLink
-  origin_owner    = owners[0].emailAddress
+  origin_owner    = owners[0].displayName (preferred) or emailAddress if name unavailable
   origin_created  = createdTime
   origin_modified = modifiedTime
 ```
@@ -118,6 +118,9 @@ version: 1
 
 ## Step 5 — Commit to Repository
 
+The `transform:` prefix is this system's defined extension of the repo's commit convention.
+It signals a document type conversion rather than a feature, fix, or documentation update.
+
 ```bash
 git add docs/{path}/{slug}.md
 git commit -m "transform: gdoc → md — {origin_title}"
@@ -137,7 +140,7 @@ origin_id: 1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms
 Add an entry to `TRANSFORM/registry.md`:
 
 ```markdown
-| {slug} | gdoc | {origin_id} | {converted_at} | {path in repo} |
+| {slug} | gdoc | {origin_id} | {converted_at} | 1 | {path in repo} |
 ```
 
 ---

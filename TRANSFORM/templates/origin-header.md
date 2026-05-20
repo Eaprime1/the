@@ -78,7 +78,7 @@ origin_id       Google Drive file ID, SHA-256 hash, URL, or slug
 origin_url      Direct link to the source document
 origin_title    Title exactly as it appeared in the source
 origin_owner    Author email or name
-origin_created  ISO 8601 date: 2026-05-19
+origin_created  ISO 8601 datetime: 2026-05-19T12:39:56Z
 origin_modified ISO 8601 datetime: 2026-05-19T07:52:00Z
 converted_at    ISO 8601 datetime of this conversion
 converted_by    Agent name, tool name, or "human"

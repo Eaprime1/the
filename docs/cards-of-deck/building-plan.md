@@ -32,10 +32,10 @@ This pattern should be used as the first sorting lens for incoming material.
 The origin four suits remain stable anchors:
 
 ```text
-Spade of Aces   = pinnacle / master container / container of containers
-Diamond of Aces = seed / launch origin / foundational card
-Club of Aces    = working copy / carbonite / active build
-Heart of Aces   = interactive presence / relational layer / aethereal copy
+Spade of Aces (♠)   = pinnacle / master container / container of containers
+Diamond of Aces (♦) = seed / launch origin / foundational card
+Club of Aces (♣)    = working copy / carbonite / active build
+Heart of Aces (♥)   = interactive presence / relational layer / aethereal copy
 ```
 
 These are the base lifecycle suits.

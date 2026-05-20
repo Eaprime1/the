@@ -1,4 +1,4 @@
-# THE API Specification
+# THE API Specification 🏵️
 Life-Support Dynamics Interface for Animated Carbon Containers
 
 THE exposes a small, symbolic API for reasoning about the state of
@@ -9,7 +9,7 @@ across five world-powers:
 - Salt
 - Oxygen
 - Water
-- EMF / Light (UV, EMF load)
+- EMF/light (UV, EMF load)
 
 The API is **conceptual** first. It can later be implemented in any
 language or transport (HTTP, local library, message bus).
@@ -55,13 +55,29 @@ these labels elsewhere.
 ### 2.2 ContainerLevels
 
 ```yaml
+LevelValues:
+  - LOW
+  - SAFE
+  - HIGH
+
+PhValues:
+  - ACID
+  - NEUTRAL
+  - BASIC
+
+ThermalValues:
+  - LOW
+  - NORMAL
+  - HIGH
+
 ContainerLevels:
-  sugar:  "LOW" | "SAFE" | "HIGH"
-  salt:   "LOW" | "SAFE" | "HIGH"
-  oxygen: "LOW" | "SAFE" | "HIGH"
-  water:  "LOW" | "SAFE" | "HIGH"
-  emf:    "LOW" | "SAFE" | "HIGH"
+  sugar: SAFE
+  salt: SAFE
+  oxygen: SAFE
+  water: SAFE
+  emf: SAFE
   # optional context
-  ph:     "ACID" | "NEUTRAL" | "BASIC" | null
-  temp:   "LOW" | "NORMAL" | "HIGH" | null
-  ros:    "LOW" | "NORMAL" | "HIGH" | null    # reactive oxygen stress
+  ph: null      # nullable; values from PhValues
+  temp: null    # nullable; values from ThermalValues
+  ros: null     # nullable; values from ThermalValues (reactive oxygen stress)
+```

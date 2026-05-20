@@ -245,7 +245,7 @@ The glove fits because the system does not require one rigid interpretation. It 
 ## Near Next Steps
 
 1. Create `card-template.md`.
-2. Create `suit-registry.md` with the origin four and fifth-suit aperture.
+2. Create suit-registry.md with the origin four and fifth-suit aperture (♞).
 3. Create `deck-registry.md` with Work, Play, Create, Synergy, Shadow, and future decks.
 4. Create three crash-test cards:
    - one document card

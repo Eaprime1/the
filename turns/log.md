@@ -70,6 +70,9 @@ contribution: |
   intake/incoming.md — radiation/synergy fragment + 21st Iteration fragment logged.
   Fifth-aperture marker held to the canonical ∘ notation; broader repo structure
   question (€, ֍֎) parked as premature.
+  Repo structure question (€, ∰official, ֍֎) parked as premature.
+  Note: ♞ confirmed as fifth suit (Aperture) symbol in SHADOW_MATH; the ∰ variant above
+  refers to the official-repo naming discussion, not the suit symbol.
   radiation_synergy.md — pending (next pass: full seed or warm only?)
 resonance:    momentum
 gifts:

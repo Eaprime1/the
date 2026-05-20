@@ -38,7 +38,9 @@ STREAMS/
     ├── README.md          ← mission brief / the fuse
     ├── sniff.md           ← The Sniff — moment before language
     ├── latin-hub.md       ← Latin terms and emotional hub
-    └── romance-map.md     ← Romance language emotional resolutions
+    ├── romance-map.md     ← Romance language emotional resolutions
+    ├── sensors.md         ← Font and accent sensor grammar
+    └── awards-architecture.md ← Writing systems as award structure
 ```
 
 ---
@@ -56,7 +58,7 @@ The landing zone is `unexusi/` — shadow to light.
 ## Stream ID Format
 
 ```
-THE-DISP-[YYYYMMDDHHII]-S[N]
+THE-DISP-[YYYYMMDDHHMM]-S[N]
 ```
 
 Where `N` is the stream number. Every dispatch carries this ID.

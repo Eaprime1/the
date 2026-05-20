@@ -91,12 +91,16 @@ The sensor grammar maps directly to the intake sequence.
 
 ### Finding: ∰ as Meta-Determinative
 
-The Fifth Aperture (∰) is the **meta-determinative** — the pre-sort position
+The Fifth Aperture is the **meta-determinative** — the pre-sort position
 that holds a concept before its suit is assigned.
 
-Every concept passes through ∰ before it becomes ♦ ♣ ♥ ♠.
-∰ is the determinative-in-waiting: *"This belongs somewhere. Not yet known where."*
-When the Sniff lands (praesensio → cognitio), ∰ resolves to its suit.
+*Notation note: the aperture appears as `∘` in DECK documentation (marker only,
+non-playable) and as `∰` in SHADOW_MATH notation (triple integral, mathematical layer).
+Both refer to the same concept at different system layers.*
+
+Every concept passes through the aperture before it becomes ♦ ♣ ♥ ♠.
+The aperture is the determinative-in-waiting: *"This belongs somewhere. Not yet known where."*
+When the Sniff lands (praesensio → cognitio), the aperture resolves to its suit.
 
 ---
 

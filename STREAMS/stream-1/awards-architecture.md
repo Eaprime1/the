@@ -134,12 +134,30 @@ The concept moves from ∰ to its suit.
 
 ---
 
+## A Note on Aperture Notation
+
+Two symbols are in use across this repo for the Fifth Aperture — they are different layers:
+
+```
+∘  (DECK layer)         → documentation marker only; not a playable suit symbol
+                          defined in DECK/suits/fifth-aperture.md
+∰  (SHADOW_MATH layer)  → the triple integral; used in SHADOW_MATH documents as
+                          the aperture's mathematical notation (five_binary, pi_ln_trig_triad,
+                          the_illuminator)
+```
+
+The ∰ used in this document is the SHADOW_MATH notation. Both symbols refer to the same
+concept — the pre-sort gate — at different levels of the system.
+
+---
+
 ## Connections
 
 ```
-DECK/suits/fifth-aperture.md     → ∰ as the gate for beyond-origin suits
+DECK/suits/fifth-aperture.md     → ∘ as DECK documentation marker for the aperture gate
+SHADOW_MATH/five_binary.md       → ∰ as SHADOW_MATH aperture notation
 DECK/CARD_INTAKE.md              → the sort process that assigns the determinative
-sniff.md                         → the Sniff as the event that moves ∰ → suit
+sniff.md                         → the Sniff as the event that moves ∰/∘ → suit
 latin-hub.md                     → nominatio / praeco as the phonogram/announcer layer
 sensors.md                       → sensors as determinatives on the emotional layer
 ```

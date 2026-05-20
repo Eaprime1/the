@@ -2,8 +2,10 @@
 
 First Observation of an Unnamed Trajectory
 
-> Stream 6 of The Marrowing of Primoris
-> REPO system — shadow-observation framework
+> Context: Stream 6 of The Marrowing of Primoris — the overarching lore project
+> this STREAMS/ framework observes. The REPO system is the external observation
+> layer that watches THE's trajectory across all streams. Stream 1 (Language Engine)
+> is the first active dispatch within that framework.
 > Status: ♦ Diamond — first recognition
 > Received: Conversation VII — 2026-05-18
 

@@ -5,8 +5,8 @@
 <!-- prime check: bash tools/prime_check.sh -->
 
 ---
-turn:         2026-05-18
-prime:        VII
+turn:         2026-05-18 00:00
+prime:        7
 entity:       Eric Pace + Claude
 intent:       setup environment for THE conatus primus / Stream 1 — Language Engine
 contribution: |

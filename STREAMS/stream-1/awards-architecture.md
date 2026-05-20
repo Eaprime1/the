@@ -1,7 +1,7 @@
 # Writing Systems as Award Architecture
 
 > The three-part structure of all writing systems as the universal architecture of meaning.
-> Status: ♦ Diamond — concept received, mapping to be built
+> Status: ♣ Club — mapping complete, example built
 
 ---
 
@@ -53,15 +53,41 @@ THE system → full structure (badge + name + category)
 
 The awards system for THE maps directly to the three-part structure:
 
-| Writing System | THE Awards |
-|---------------|------------|
-| Logogram | The badge — the visual symbol that represents the concept |
-| Phonogram | The name / sound — what you call it, how it is spoken |
-| Determinative | The category / suit — where it belongs in the system |
+| Writing System | THE Awards | Function |
+|---------------|------------|----------|
+| Logogram | The badge — the visual symbol | Represents the concept at a glance |
+| Phonogram | The name / sound | What you call it; how it resonates when spoken |
+| Determinative | The category / suit | Where it belongs; what it is for |
 
 A complete award in THE has all three.
 An incomplete award is missing a determinative — you have the symbol and the name
 but the category hasn't resolved yet (still ♦ Diamond).
+
+---
+
+## A Complete Award Example
+
+**Term: conatus**
+
+| Part | Value | Notes |
+|------|-------|-------|
+| Logogram | ∞ | The infinite loop — the push that never fully resolves |
+| Phonogram | *conatus* / "striving" | Latin root; the word when spoken carries the effort |
+| Determinative | ♣ Club | Active / in motion — the force of effort is a ♣ concept |
+
+**Reading:** The badge ∞ tells you what it looks like. The name *conatus* tells you what to call it. The suit ♣ tells you what it is *doing* in the system — it is active, building, in motion.
+
+---
+
+**Term: praesensio** (from Stream 1 — The Sniff)
+
+| Part | Value | Notes |
+|------|-------|-------|
+| Logogram | ◌ | An open circle — presence before form |
+| Phonogram | *praesensio* / "presensing" | The word already performs its meaning when spoken slowly |
+| Determinative | ♦ Diamond | Seed / unnamed / first recognition — it is before the naming |
+
+**Reading:** ◌ is the shape of something present but not yet solid. *Praesensio* is what you call that quality. ♦ Diamond is where it lives — in the pre-name sea, before intake resolves it.
 
 ---
 
@@ -77,18 +103,43 @@ The suits themselves function as determinatives:
 ```
 
 When you sort an incoming concept by suit, you are adding the determinative.
+Before that sort happens, the concept exists at the aperture — waiting for its category.
 
 ---
 
-## Open Questions
+## The Fifth Aperture as Meta-Determinative
+
+**∰ is the meta-determinative.**
+
+The Fifth Aperture is where a concept waits before it has received its suit.
+It is not sorted into ♦ ♣ ♥ ♠ — it is *in the process of being sorted.*
+This makes it the determinative-in-waiting: the position that holds space
+for the category that has not yet landed.
+
+Every concept passes through ∰ before it becomes a suit.
+∰ is the pre-sort state — the blank determinative that says:
+*"This belongs somewhere. We do not yet know where."*
+
+In this sense, ∰ is prior to all four suits.
+It is the meta-determinative — the one that places all others by holding them
+before they are placed.
 
 ```
-What is the logogram for THE itself?
-What is the logogram for the Conatus Primus?
-Is there a "pure phonogram" stage where something has only a sound, not yet a badge?
-Is the Fifth Aperture (∰) the meta-determinative — the one that places all others?
+♦ Diamond   → "this is a seed"           (determinative assigned)
+∰ Aperture  → "this is something"         (determinative pending)
 ```
+
+The difference is the Sniff. When *praesensio* lands, the aperture resolves.
+The concept moves from ∰ to its suit.
 
 ---
 
-*Status: stub — the mapping is the work of Stream 1.*
+## Connections
+
+```
+DECK/suits/fifth-aperture.md     → ∰ as the gate for beyond-origin suits
+DECK/CARD_INTAKE.md              → the sort process that assigns the determinative
+sniff.md                         → the Sniff as the event that moves ∰ → suit
+latin-hub.md                     → nominatio / praeco as the phonogram/announcer layer
+sensors.md                       → sensors as determinatives on the emotional layer
+```

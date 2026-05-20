@@ -1,7 +1,7 @@
 # Romance Language Emotion Map
 
 > Each language is a different emotional resolution of the same content.
-> Status: ♦ Diamond — framework received, awaiting seed sentence
+> Status: ♣ Club — seed sentence executed, six branches complete
 
 ---
 
@@ -24,80 +24,152 @@ that will carry it with the right emotional weight.
 
 ---
 
-## The Six Branches
+## The Seed Sentence Exercise
+
+**Seed sentence:** *"Something arrives before it knows what it is."*
+
+**Latin hub form:** *Aliquid advenit antequam se noscat.*
+
+The same content, six emotional bodies:
+
+---
 
 ### French
-**Philosophical weight, elegiac distance.**
-The thought that outlives the feeling.
-The content arrives already slightly past — witnessed from a remove.
-French makes experience into reflection.
+*Quelque chose arrive sans encore savoir ce qu'il est.*
+Something arrives without yet knowing what it is.
 
-*When to route here:* when the idea needs distance to be seen clearly.
+**Emotional register: philosophical weight, elegiac distance.**
+
+In French, the not-knowing has already become a meditation.
+The arrival is slightly past — we are already reflecting on it.
+The word *encore* (yet, still) carries the weight of a thought
+that has outlived the feeling that prompted it.
+
+*The thought that arrives and is already considering itself.*
+
+*When to route here:* when the concept needs to be witnessed, not felt.
 
 ---
 
 ### Italian
-**Embodied warmth, operatic intensity.**
-The feeling as event.
-Italian does not observe the feeling — it is the feeling, uncontained.
-Everything is slightly more alive in Italian.
+*Qualcosa arriva prima di sapere cosa è.*
+Something arrives before knowing what it is.
 
-*When to route here:* when the idea needs a body, a temperature, a gesture.
+**Emotional register: embodied warmth, operatic intensity.**
+
+In Italian, the arrival IS the event. The not-knowing is not a problem —
+it is the warmth of being present before clarity.
+The sentence is immediate, physical. The thing is HERE. The knowing will come.
+Nothing is withheld. The feeling is the complete content.
+
+*The thing that arrives and fills the room before it has a name.*
+
+*When to route here:* when the concept needs a body, a temperature, a gesture.
 
 ---
 
 ### Spanish
-**Direct urgency, communal resonance.**
-The feeling as call.
-Spanish assumes an audience — it reaches outward and expects a response.
-There is no Spanish monologue that doesn't know someone is listening.
+*Algo llega antes de saber lo que es.*
+Something arrives before knowing what it is.
 
-*When to route here:* when the idea needs to be heard, shared, acted on.
+**Emotional register: direct urgency, communal resonance.**
+
+Spanish assumes someone is listening. The arrival is a call.
+*Algo llega* — something is arriving, right now, and we need to pay attention.
+Spanish does not linger in the not-knowing — it moves toward resolution.
+The sentence reaches outward.
+
+*The announcement that something is coming and the room should prepare.*
+
+*When to route here:* when the concept needs to be heard, shared, acted upon.
 
 ---
 
 ### Portuguese
-**Saudade.**
-Longing and bittersweet presence simultaneously.
-The feeling that mourns what is still here.
-Portuguese holds contradiction without resolving it.
+*Algo chega antes de saber o que é.*
+Something arrives before knowing what it is.
 
-*When to route here:* when the idea is both true and already lost.
+**Emotional register: saudade — longing and bittersweet presence simultaneously.**
+
+In Portuguese, the arrival already contains its own passing.
+The thing has arrived and in arriving is already being mourned.
+The not-knowing is not a gap — it is the feeling itself.
+*Saudade* is the emotion of something present that is already lost.
+This sentence, in Portuguese, is about that: the arrival that is already a departure.
+
+*The thing that came and in coming was already going.*
+
+*When to route here:* when the concept is both true and already lost.
 
 ---
 
 ### Romanian
-**Earthy, ancient, unfiltered.**
-The feeling before it learns manners.
-Romanian is the oldest-feeling of the Romance languages —
-it kept Latin in places the others polished away.
+*Ceva vine înainte să știe ce este.*
+Something comes before it knows what it is.
 
-*When to route here:* when the idea needs to be raw, without softening.
+**Emotional register: earthy, ancient, unfiltered.**
 
----
+Romanian kept Latin where the other languages polished it away.
+The sentence is plain, almost blunt. No elegance, no drama.
+The thing comes. It doesn't know. That is what it is.
+Romanian doesn't apologize for the not-knowing — it simply states it.
 
-### Germanic (separate branch)
-**Absolute, architectural, no softening.**
-The feeling as structure.
-German does not decorate — it constructs.
-Compound words that build the concept from the ground up.
+*The fact before it becomes a story.*
 
-*When to route here:* when the idea needs to be load-bearing.
+*When to route here:* when the concept needs to be raw, without softening.
 
 ---
 
-## The Seed Sentence Exercise
+### Germanic
+*Etwas kommt, bevor es weiß, was es ist.*
+Something comes, before it knows, what it is.
 
-Take one sentence through Latin, then distribute to all six branches.
-The exercise shows: same content, six emotional bodies.
+**Emotional register: absolute, architectural, no softening.**
 
-**Candidate seed sentences** (from `latin-hub.md`):
+German builds the sentence the way an engineer builds a bridge.
+Three load-bearing clauses. No decoration. Each piece carries weight.
+*Etwas* (something). *kommt* (comes). *bevor* (before). *weiß* (knows). *ist* (is).
+The commas are structural joints, not pauses for breath.
 
-1. "The dark presses until it becomes a word."
-2. "Something arrives before it knows what it is."
-3. "The first recognition changes what is recognized."
+*The concept as schematic: arrival, temporal gap, identity — each as a bearing wall.*
 
-→ To be developed in active Stream 1 sessions.
+*When to route here:* when the concept needs to be load-bearing.
+
+---
+
+## What the Exercise Shows
+
+The same content — *something arrives before it knows what it is* — produces:
+
+| Branch | What It Became |
+|--------|---------------|
+| French | A meditation already happening |
+| Italian | A presence already filling the room |
+| Spanish | A call that expects an answer |
+| Portuguese | An arrival already mourning itself |
+| Romanian | A fact before it becomes a story |
+| Germanic | A schematic of arrival, gap, and identity |
+
+None of these is more correct than the others.
+The seed sentence is all of them simultaneously.
+The language chosen determines which of these arrives for the reader.
+
+---
+
+## Routing Guide
+
+When a concept needs to be sent outward — to a reader, a collaborator,
+a piece of content — choose the branch that matches what you need the
+concept to DO:
+
+```
+Needs reflection / distance            → French
+Needs warmth / presence                → Italian
+Needs urgency / communal reach         → Spanish
+Needs depth / bittersweet complexity   → Portuguese
+Needs rawness / ancient directness     → Romanian
+Needs structure / architectural weight → Germanic
+```
 
 ---
 
@@ -107,13 +179,13 @@ The three-part writing system (logogram / phonogram / determinative) maps
 to the three-part language routing:
 
 ```
-logogram      → the concept itself (Latin)
-phonogram     → the sound/feel it carries (Romance branch)
-determinative → the category it belongs to (sensor / tone)
+logogram      → the concept itself (Latin form)
+phonogram     → the sound/feel it carries (Romance branch chosen)
+determinative → the category it belongs to (sensor / suit / tone)
 ```
 
+The seed sentence in Latin is the logogram.
+The branch it routes to is the phonogram — the emotional body it speaks in.
+The reason for that choice is the determinative — what the concept needs to do.
+
 → See: `awards-architecture.md`
-
----
-
-*Status: stub — framework placed, seed sentence to come.*

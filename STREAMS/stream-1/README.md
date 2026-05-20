@@ -95,6 +95,7 @@ the stable middle that makes the translation between emotional languages possibl
 | principium | First principle — the foundational cause | Core axioms, the why beneath the what |
 | exordium | Opening of formal address — threshold before work | MOAV packets, liminal READMEs |
 | gubernaculum | The rudder, the helm, the steering mechanism | unexusi/ — active direction |
+| conatus | Striving, endeavor — the force before result | THE Conatus Primus |
 
 → See: `latin-hub.md` for full development
 

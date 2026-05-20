@@ -1,7 +1,7 @@
 # Latin Hub
 
 > Latin as the clarification layer — the universal Rosetta.
-> Status: ♦ Diamond — seeded, growing
+> Status: ♣ Club — terms resolved, seed sentence chosen
 
 ---
 
@@ -29,50 +29,65 @@ The feeling is what the Romance languages add when they receive it.
 | gubernaculum | The rudder, the helm | Active direction / steering — not a destination but a course | unexusi/ — active direction |
 | conatus | Striving, endeavor | The force of effort before result — pushing toward | THE Conatus Primus |
 
----
-
-## Terms to Find
-
-```
-The act of naming               → ?
-The first recognition           → ? (see sniff.md)
-The moment potential becomes direction → ?
-The container that leaks        → ?
-The moment of collapse from many to one → ?
-The announcer / the one who introduces → ?
-```
+> Note: *origo*, *principium*, and *initium* form a natural triad —
+> origin (where from), principle (why), beginning (when).
+> They are not synonyms. They are three different questions about the same moment.
 
 ---
 
-## Candidates Under Consideration
+## Terms Resolved — Stream 1
 
-| Term | Meaning | Notes |
-|------|---------|-------|
-| nominatio | The act of naming | nominare — to name |
-| appellatio | Calling by name | More public / announced |
-| nomen | Name | The noun itself — not the act |
-| praesensio | Presensing | Before the cause arrives |
-| cognitio | Recognition / knowing | First knowing |
-| collapsus | Collapse | Physical collapse — may not carry right weight |
-| determinatio | Determination / direction | From determinare — to bound, to fix |
-| vox | Voice | The first sound of the named thing |
-| terminus | Boundary / end point | Where potential stops being potential |
+| Concept | Latin Term | From | Nuance |
+|---------|-----------|------|--------|
+| The act of naming | **nominatio** | *nominare* — to name by calling out | Public, relational — a name given in the presence of others |
+| The first recognition | **praesensio** | *prae* + *sentio* — to feel before | The sensing of what is not yet present but already pressing |
+| The moment potential becomes direction | **determinatio** | *determinare* — to bound, to fix | The act of drawing the line that separates this from everything else |
+| The container that leaks | **lacuna** | gap, opening, hole | The absence that shapes what surrounds it — useful because it lets things through |
+| The moment of collapse from many to one | **concretio** | *concrescere* — to grow together | The solidifying of diffuse potential into a single form |
+| The announcer / the one who introduces | **praeco** | the herald, the town crier | The one who makes the name heard — the public voice of nominatio |
 
 ---
 
 ## The Seed Sentence
 
-*A single sentence run through Latin and then distributed to all six branches.*
+**Chosen:** *"Something arrives before it knows what it is."*
 
-Candidate seed sentences:
+This sentence was chosen because:
+- It maps cleanly to all six language branches
+- It holds the Anti-Vector / Sniff / Vector sequence without stating it explicitly
+- It is universal — not about language, but demonstrating language in action
 
-1. "The dark presses until it becomes a word."
-2. "Something arrives before it knows what it is."
-3. "The first recognition changes what is recognized."
+**Latin rendering:**
+> *Aliquid advenit antequam se noscat.*
+> Something comes before it knows itself.
 
-→ To be developed in active Stream 1 sessions.
-→ See: `romance-map.md` for the distribution.
+*advenit* — arrives, comes toward (implying motion and destination)
+*antequam* — before (temporal, precise)
+*se noscat* — knows itself (reflexive — the thing turning its recognition inward)
+
+→ See: `romance-map.md` for the full six-branch distribution
 
 ---
 
-*Status: stub — terms arriving. Develop the seed sentence first, then route.*
+## The Hub Diagram
+
+```
+                    "Something arrives before it knows what it is."
+                                        ↓
+                        Aliquid advenit antequam se noscat.
+                                        ↓
+              ┌─────────┬──────────┬───────────┬────────────┬──────────┬──────────┐
+           French    Italian   Spanish  Portuguese  Romanian   Germanic
+        (distance)  (warmth)  (urgency) (saudade)  (earth)   (structure)
+```
+
+---
+
+## Connections
+
+```
+sniff.md                  → praesensio / cognitio / nominatio as the intake triad
+romance-map.md            → seed sentence distributed to all six branches
+awards-architecture.md    → praeco as the announcer function / nominatio as logogram act
+world/the-the.md          → THE as announcer = praeco in the Roman sense
+```

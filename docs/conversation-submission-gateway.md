@@ -78,7 +78,7 @@ draft PR for review and merge
 ## First Suit Reading
 
 - Deck: [Work / Play Wonka / Create Pandora / Synergy Spark / Unknown]
-- Suit-state: [Diamond / Club / Heart / Spade / Aperture]
+- Suit-state: [♦ Diamond / ♣ Club / ♥ Heart / ♠ Spade / ♞ Aperture]
 - Drop state: [0 / 1 / 5]
 
 ## Links / Lineage

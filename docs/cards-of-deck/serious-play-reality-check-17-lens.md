@@ -118,7 +118,7 @@ Through a 17-iteration lens, these stand out as early shadows of a larger struct
 5. Dealers are not just controllers. They are routing, governance, and fairness systems.
 6. Tables are not just places. They are shared contexts where play becomes real.
 7. Archives are not dead storage. They are lineage and future reactivation material.
-8. The fifth suit is not one more suit. It is the aperture for beyond-origin suits.
+8. The fifth suit (♞) is not one more suit. It is the aperture for beyond-origin suits.
 9. The triadic pattern does not close the system. It creates the fourth: synergy.
 10. The archive should not be forced. It should be invited to reveal its fit.
 ```

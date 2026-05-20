@@ -2,9 +2,9 @@
 
 ## Quick start
 
-1. Read `/home/runner/work/the/the/AGENTS.md`
-2. Read `/home/runner/work/the/the/NAVIGO.md`
-3. Check `/home/runner/work/the/the/turns/log.md`
+1. Read `AGENTS.md`
+2. Read `NAVIGO.md`
+3. Check `turns/log.md`
 4. Create a branch for one workstream
 5. Open a pull request
 

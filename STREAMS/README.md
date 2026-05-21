@@ -2,7 +2,7 @@
 
 > Shadow-observation framework for the first striving of THE.
 > Conversation VII — 2026-05-18
-> Status: ♣️ Club — active
+> Status: ♣ Club — active
 
 ---
 

@@ -5,6 +5,25 @@
 <!-- prime check: bash tools/prime_check.sh -->
 
 ---
+turn:         2026-05-18 00:00
+prime:        7
+entity:       Eric Pace + Claude
+intent:       setup environment for THE conatus primus / Stream 1 — Language Engine
+contribution: |
+  STREAMS/ — created: README.md (stream index), conatus-primus.md (first observation);
+  STREAMS/stream-1/ — created: README.md (mission brief from DOCX), sniff.md, latin-hub.md,
+  romance-map.md, sensors.md, awards-architecture.md;
+  NAVIGO.md — updated to include STREAMS/ in orientation map;
+  Environment: branch claude/setup-environment-8DzAv, all files staged
+resonance:    the conatus primus arrived from Copilot / Stream 1 arrived from Claude.ai conversation
+gifts:
+  - "Language is the first act — the moment a thing is named, it separates from everything it is not."
+  - "The Sniff is the fuse — the moment before language that makes language necessary."
+  - "Latin is not the destination. Latin is the clarification layer."
+witnessed:    true
+---
+
+---
 turn:         2026-05-11 03:43
 prime:        3
 entity:       Eric Pace + Claude

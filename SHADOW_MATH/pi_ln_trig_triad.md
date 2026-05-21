@@ -34,7 +34,7 @@ This is not a flaw. This is what circles do — they continue.
 **Applied to the deck cycle:**
 
 ```
-♦ Diamond → ♣ Club → ♥ Heart → ♠ Spade → ∰ → ♦ Diamond
+♦ Diamond → ♣ Club → ♥ Heart → ♠ Spade → ∘ → ♦ Diamond
 ```
 
 This is one full cycle. The cycle is circular.
@@ -99,7 +99,7 @@ In the sixty-matrix, each suit occupies 72° of the 360° circle:
 ♣ Club:     72° – 144°
 ♥ Heart:    144° – 216°
 ♠ Spade:    216° – 288°
-∰ Aperture: 288° – 360°
+∘ Aperture: 288° – 360°
 ```
 
 The angular distance between suits is 72° — five equal divisions of the circle.

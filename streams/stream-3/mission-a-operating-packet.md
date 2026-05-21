@@ -1,5 +1,5 @@
 ---
-title: Stream 3 Mission A Operating Packet
+title: 🏵️ Stream 3 Mission A Operating Packet
 id: THE-DISP-202605170000-S3-MISSION-A-OPERATING-PACKET
 stream: S3
 platform: ChatGPT

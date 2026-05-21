@@ -1,0 +1,7 @@
+ContainerState:
+  x_state:        -1000 .. 1000       # composite axis
+  band:           "ACID_SIDE" | "BALANCE_EYE" | "CAUSTIC_SIDE"
+  tolerance_band: "WIDE" | "MEDIUM" | "NARROW" | "COLLAPSED"
+  risk_of_flip:   "STABLE" | "UNSTABLE" | "IMMINENT_FLIP"
+  dominant_axis:  "SUGAR" | "SALT" | "OXYGEN" | "WATER" | "EMF" | "MIXED"
+  notes:          [string]            # brief human-readable hints

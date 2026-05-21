@@ -89,5 +89,5 @@ This sentence was chosen because:
 sniff.md                  → praesensio / cognitio / nominatio as the intake triad
 romance-map.md            → seed sentence distributed to all six branches
 awards-architecture.md    → praeco as the announcer function / nominatio as logogram act
-world/the-the.md          → THE as announcer = praeco in the Roman sense
+world/the-the.md          → THE as announcer figure, later aligned here with praeco
 ```

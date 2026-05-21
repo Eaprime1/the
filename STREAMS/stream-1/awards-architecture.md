@@ -109,7 +109,7 @@ Before that sort happens, the concept exists at the aperture — waiting for its
 
 ## The Fifth Aperture as Meta-Determinative
 
-**∰ is the meta-determinative.**
+**♞ is the meta-determinative.**
 
 The Fifth Aperture is where a concept waits before it has received its suit.
 It is not sorted into ♦ ♣ ♥ ♠ — it is *in the process of being sorted.*

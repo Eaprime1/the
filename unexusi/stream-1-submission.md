@@ -94,9 +94,7 @@ The sensor grammar maps directly to the intake sequence.
 The Fifth Aperture is the **meta-determinative** — the pre-sort position
 that holds a concept before its suit is assigned.
 
-*Notation note: the aperture appears as `∘` in DECK documentation (marker only,
-non-playable) and as `∰` in SHADOW_MATH notation (triple integral, mathematical layer).
-Both refer to the same concept at different system layers.*
+*Notation note: the aperture symbol is ♞, as defined in the prima iteration documents.*
 
 Every concept passes through the aperture before it becomes ♦ ♣ ♥ ♠.
 The aperture is the determinative-in-waiting: *"This belongs somewhere. Not yet known where."*

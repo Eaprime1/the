@@ -13,7 +13,7 @@ permanent: true
 version: 1
 ---
 
-# ♣ Stream 3 — Variable Constant + Violation
+# ♣ Stream 3 — Variable Constant + Violation 🍥
 **ChatGPT — THE Project Diaspora**
 
 ---

@@ -1,4 +1,4 @@
-# Process: Google Doc → Markdown
+# Process: Google Doc → Markdown 🍥
 
 > TRANSFORM/processes/gdoc-to-md.md
 > Timestamp: `202605190752`
@@ -118,17 +118,14 @@ version: 1
 
 ## Step 5 — Commit to Repository
 
-The `transform:` prefix is this system's defined extension of the repo's commit convention.
-It signals a document type conversion rather than a feature, fix, or documentation update.
-
 ```bash
 git add docs/{path}/{slug}.md
-git commit -m "transform: gdoc → md — {origin_title}"
+git commit -m "doc: transform gdoc → md — {origin_title}"
 ```
 
 Include the origin_id in the commit body if desired:
 ```
-transform: gdoc → md — The First Sparklization Journey
+doc: transform gdoc → md — The First Sparklization Journey
 
 origin_id: 1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms
 ```
@@ -171,6 +168,6 @@ If the source Google Doc is updated after first conversion:
 1. Re-run Steps 1-2
 2. Compare content to existing .md
 3. If changed: update file, increment `version`, update `origin_modified` and `converted_at`
-4. Commit: `transform: update gdoc → md — {origin_title} (v{n})`
+4. Commit: `doc: transform update gdoc → md — {origin_title} (v{n})`
 
 🍥

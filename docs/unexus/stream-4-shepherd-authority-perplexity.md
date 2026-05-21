@@ -13,7 +13,7 @@ permanent: true
 version: 1
 ---
 
-# ♣ Stream 4 — Shepherd / Authority
+# ♣ Stream 4 — Shepherd / Authority 🍥
 **Perplexity — THE Project Diaspora**
 
 ---

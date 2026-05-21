@@ -1,4 +1,4 @@
-# Process: PDF → Markdown
+# Process: PDF → Markdown 🍥
 
 > TRANSFORM/processes/pdf-to-md.md
 > Timestamp: `202605190752`
@@ -140,10 +140,9 @@ PDF extraction is imperfect. After assembly:
 ## Step 7 — Commit, Register, Card
 
 Same as gdoc-to-md Steps 5-7.
-The `transform:` prefix is this system's defined extension of the repo's commit convention.
 
 ```bash
-git commit -m "transform: pdf → md — {title}"
+git commit -m "doc: transform pdf → md — {title}"
 ```
 
 Register in `TRANSFORM/registry.md`.

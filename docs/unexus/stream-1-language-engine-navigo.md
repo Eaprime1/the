@@ -13,7 +13,7 @@ permanent: true
 version: 1
 ---
 
-# ♣ Stream 1 — Language Engine
+# ♣ Stream 1 — Language Engine 🍥
 **Navigo / Claude — THE Project, Claude.ai**
 
 ---

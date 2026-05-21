@@ -172,3 +172,5 @@ If the source Google Doc is updated after first conversion:
 2. Compare content to existing .md
 3. If changed: update file, increment `version`, update `origin_modified` and `converted_at`
 4. Commit: `transform: update gdoc → md — {origin_title} (v{n})`
+
+🍥

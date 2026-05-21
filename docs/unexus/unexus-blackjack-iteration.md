@@ -26,4 +26,6 @@ version: 1
 | **Stream 5** / S5 | **Microsoft Copilot** | **The Mathematical Backbone:** Maintains the Prime Progression (1, 3, 7, 21) and the rigid infrastructure (GitHub, BBS, ASCII). | **Custos Conversation in THE Project (Claude.ai)** |
 | **Player 6** / S6 | *(Not assigned a platform)* | **The Conatus Primus:** Observes the "First Striving" and tracks the trajectory of the entity "THE" before it has a clear vector. | *(Observational role)* |
 | **The Conatus Primus** | Master Document | The Primal Launch of THE/UNEXUS, defining the **Prime Progression** (1, 3, 7, 21), the **Language Engine** (Latin/Sniff), and the **Custos/Shepherd**. | Master Document — Pinnacle-Ready |
-| **Mission Package** | Navigo / Custos Dispatch | **Round 2 Mission Package** for the Blackjack Iteration, containing **5 missions** (NotebookLLM, GitHub Copilot, Gemini, Brave AI, Standards) and a **Latin Registry update**. | **Custos Conversation in THE Project (Claude.ai)** |
+| **Mission Package** | Navigo / Custos Dispatch | **Round 2 Mission Package** for the Blackjack Iteration, containing **5 missions** (NotebookLLM, GitHub Copilot, Gemini, Brave, Standards) and a **Latin Registry update**. | **Custos Conversation in THE Project (Claude.ai)** |
+
+🍥

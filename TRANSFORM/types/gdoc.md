@@ -75,3 +75,5 @@ by transformation. When you have a gdoc, you are at the source.
 
 The gdoc remains in Google Drive. It is not imported into this repo.
 Its .md transformation is what lives here permanently.
+
+🍥

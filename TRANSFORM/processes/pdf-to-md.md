@@ -158,3 +158,5 @@ When a document has heavy structure:
 - Consider this a **metamorphosis** (not just transform) — structural choices required
 - Document what was reorganized in the frontmatter or a `<!-- metamorphosis notes: -->` comment
 - Increment `version` if you later re-extract from an improved OCR pass
+
+🍥

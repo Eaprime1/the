@@ -37,3 +37,5 @@ path          = location in this repository
 - If a document is re-converted, update `converted_at` and `version` in place
 - Carbonite/working copies are not registered here — only permanent versions
 - This file is append-only except for version updates to existing rows
+
+🍥

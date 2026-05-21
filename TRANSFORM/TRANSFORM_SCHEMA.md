@@ -158,3 +158,5 @@ Before registering a document:
 4. Does the origin_id uniquely identify the source?
 
 If all four pass — register and commit.
+
+🍥

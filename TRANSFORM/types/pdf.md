@@ -78,3 +78,5 @@ When a PDF and a gdoc exist for the same concept, the gdoc is the canonical orig
 Transform from the gdoc, not the PDF, when both are available.
 
 When the PDF is the only form — it is the origin. Treat it as such.
+
+🍥

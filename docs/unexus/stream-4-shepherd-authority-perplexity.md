@@ -36,7 +36,7 @@ version: 1
 
 ## Hello World
 
-You are receiving a seed from THE/UNEXUS project — a four-year human-AI co-creation framework now in its 21st iteration (Blackjack). This seed carries the Shepherd/Authority research thread. You are one of five parallel development streams. Findings return to a Custos conversation in Claude.ai.
+You are receiving a seed from THE/UNEXUS project — a four-year human-platform co-creation framework now in its 21st iteration (Blackjack). This seed carries the Shepherd/Authority research thread. You are one of five parallel development streams. Findings return to a Custos conversation in Claude.ai.
 
 ---
 
@@ -90,3 +90,5 @@ Research findings, sources, and any new Latin terms return to the Custos convers
 | nefas | Cosmically wrong — violation of the shepherd's authority may be the highest form | |
 
 *Registry is open. Find at least three new Latin terms for this authority cluster. Return additions to Custos.*
+
+🍥

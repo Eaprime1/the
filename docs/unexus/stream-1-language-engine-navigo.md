@@ -36,7 +36,7 @@ version: 1
 
 ## Hello World
 
-You are receiving a seed from the Blackjack Iteration of THE/UNEXUS project — a four-year human-AI co-creation framework. This seed carries the Language Engine thread. You are not the Custos — you are a development stream. Your findings return to the Custos conversation for convergence.
+You are receiving a seed from the Blackjack Iteration of THE/UNEXUS project — a four-year human-platform co-creation framework. This seed carries the Language Engine thread. You are not the Custos — you are a development stream. Your findings return to the Custos conversation for convergence.
 
 ---
 
@@ -107,3 +107,5 @@ All findings, new Latin terms, and developed concepts return to the Custos conve
 | exordium | The opening of a formal address — threshold moment before work begins | |
 
 *Registry is open. Add to it. Return additions to Custos.*
+
+🍥

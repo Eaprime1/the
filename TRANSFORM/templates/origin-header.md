@@ -86,3 +86,5 @@ extraction_quality  (pdf only) clean | partial | ocr-needed | degraded
 permanent       true = this is the canonical .md version
 version         1 = first conversion; increment when source updates
 ```
+
+🍥

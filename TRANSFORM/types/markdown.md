@@ -96,3 +96,5 @@ If the source document is updated after the first conversion:
 
 Markdown is the **destination type** for this system's primary processes.
 It is where documents come to live permanently inside the repository.
+
+🍥

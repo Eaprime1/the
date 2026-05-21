@@ -20,9 +20,15 @@ It does **not** bundle a terminal emulator. The runtime (Termux, bash, zsh, what
 
 ```
 prima.yaml          concept manifest — name, version, runtime requirements
+DECK/               Cards of Deck architecture, suits, components, and intake
+SHADOW_MATH/        mathematical backbone for the deck system
+intake/             incoming fragments and sorting material
+turns/              session history and prime-state log
+satus/              sowings — noticed-but-not-building-yet research seeds
 quests/             RPG-style quest definitions (real tasks, real outcomes)
 seeds/              bootstrap scripts, dotfiles, package lists
 guides/             lore-woven practical documentation
+docs/               origin statements and reference documents
 world/              setting, lore, factions — the conceptual "place"
 unexusi/            connection spec for the Unexusi identity layer
 ```

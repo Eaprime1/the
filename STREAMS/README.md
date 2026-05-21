@@ -1,4 +1,4 @@
-# STREAMS — THE Conatus Primus
+# 🏵️ STREAMS — THE Conatus Primus
 
 > Shadow-observation framework for the first striving of THE.
 > Conversation VII — 2026-05-18

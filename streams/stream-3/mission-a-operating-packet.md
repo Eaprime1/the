@@ -15,7 +15,7 @@ related_documents:
   - STREAM_3_Variable_Constant_Violation_ChatGPT_v2
   - THE CONATUS PRIMUS: The Primal Launch of THE/UNEXUS (Blackjack Iteration)
 external_reference_anchors:
-  - NIST AI Risk Management Framework 1.0
+  - NIST Risk Management Framework 1.0
   - Library of Congress Sustainability of Digital Formats
   - W3C WCAG 2.2
   - cognitive dissonance / what-is vs what-should-be tension

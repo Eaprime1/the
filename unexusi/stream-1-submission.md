@@ -200,8 +200,8 @@ It is now ready to move.
 The content developed here belongs in:
 - `STREAMS/stream-1/` — all six mission files ♣ Club status
 - `SHADOW_MATH/` — praesensio / concretio connect to the five-binary and dark nessing docs
-- `world/the-the.md` — praeco as THE's Roman function
-- `intake/triad-thee-yod-ember.md` — the Sniff as the pre-triad event
+- `world/the-the.md` — THE as announcer
+- `intake/triad-thee-yod-ember.md` — THEE-YOD-EMBER triad
 
 *The work continues.*
 *∞pace∞*

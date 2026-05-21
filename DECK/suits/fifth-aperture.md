@@ -1,7 +1,8 @@
 # Fifth Suit Aperture — The Gateway
 
 > Suit state: Aperture / Unresolved Potential
-> Symbol notation: ∘ (documentation marker only, not an in-deck suit symbol)
+> In-deck suit symbol: ♞ (used in SHADOW_MATH diagrams and lifecycle maps)
+> Document marker: ∘ (header notation for this spec file only — not the suit symbol)
 > Role: Gateway for beyond-origin suits
 
 ---
@@ -103,7 +104,8 @@ To propose a new suit, a card must answer:
 
 ## The Aperture Is Itself Aethereal
 
-The fifth suit aperture uses the ∘ symbol as a marker, though it is not a playable suit in the standard deck.
-It cannot be played as a card.
+The fifth suit aperture uses ♞ as its in-deck symbol across SHADOW_MATH diagrams and lifecycle maps.
+The ∘ in the header of this document is this spec file's own notation marker — not the suit symbol.
+The aperture itself cannot be played as a card, but ♞ marks its position in any diagram that maps the full cycle.
 
 It is the space between the cards — the gap that makes the game possible.

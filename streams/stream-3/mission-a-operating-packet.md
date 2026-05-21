@@ -364,7 +364,7 @@ A thing may be capable of “nessing” without the project deciding whether it 
 - **Definition:** Restoration of exercisable authority.
 - **Function in Sequence:** Possible response-state after violation; likely Stream 4 bridge.
 
-### humilis imperium
+### humile imperium
 
 - **ID:** S3-TERM-009
 - **Language:** Latin

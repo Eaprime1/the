@@ -55,6 +55,39 @@ The landing zone is `unexusi/` — shadow to light.
 
 ---
 
+## Notation Key
+
+Symbols used across STREAMS documents:
+
+| Symbol | Layer | Meaning |
+|--------|-------|---------|
+| `∘` | DECK | Fifth Aperture — documentation marker only; not a playable suit |
+| `∰` | SHADOW_MATH | Fifth Aperture — triple integral notation used in mathematical docs |
+| `♞` | — | Not used in this repository; disregard any external suggestions |
+
+When both `∘` and `∰` appear, they refer to the same concept at different system depths.
+
+---
+
+## Term Lifecycle — The Intake Triad
+
+The passage from pressure to named concept follows three stages:
+
+| Stage | Latin Term | Sensor | Meaning |
+|-------|-----------|--------|---------|
+| Presensing | *praesensio* | *italic* | The sensing of what is not yet present but already pressing |
+| Recognition | *cognitio* | **bold** | The Sniff lands — the thing is recognized |
+| Naming | *nominatio* | CAPS | The concept is called out formally in the presence of others |
+
+```
+*praesensio*  →  **cognitio**  →  NOMINATIO
+  (italic)        (bold)          (CAPS)
+```
+
+→ See: `stream-1/sniff.md` for full development
+
+---
+
 ## Stream ID Format
 
 ```

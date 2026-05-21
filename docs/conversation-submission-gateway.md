@@ -1,6 +1,6 @@
 # Conversation Submission Gateway
 
-> Timestamp: `20260518`
+> Timestamp: `202605182056`
 > Status: ♦ Diamond-seed → ♣ Club-working
 > Purpose: make this conversation a clean landing point for material that should enter `the`.
 
@@ -16,7 +16,7 @@ This chat may act as the active submission point. Other conversations, agents, a
 
 ## Access Reality
 
-ChatGPT in this session can read and write the GitHub repository through the connected GitHub tool.
+If the current conversation has repository-connected tooling, ChatGPT in this session can read and write the GitHub repository through that tooling.
 
 ChatGPT in this session cannot automatically read every other ChatGPT conversation at this location. Material from other conversations must be intentionally submitted here, exported, uploaded, or committed elsewhere before it can be processed.
 
@@ -52,7 +52,7 @@ DECK/cards/*.md when the material resolves into a card
   ↓
 turns/log.md entry when the session makes a meaningful move
   ↓
-draft PR for review and merge
+draft PR targeting `radix` for review and merge
 ```
 
 ---
@@ -78,7 +78,7 @@ draft PR for review and merge
 ## First Suit Reading
 
 - Deck: [Work / Play Wonka / Create Pandora / Synergy Spark / Unknown]
-- Suit-state: [♦ Diamond / ♣ Club / ♥ Heart / ♠ Spade / ♞ Aperture]
+- Suit-state: [♦ Diamond / ♣ Club / ♥ Heart / ♠ Spade / ∘ Aperture marker (gateway, not a playable suit)]
 - Drop state: [0 / 1 / 5]
 
 ## Links / Lineage
@@ -106,10 +106,12 @@ This lets conversations remain sovereign while still allowing their gifts to ent
 - Recognize this conversation as an active submission point.
 - Add this gateway document.
 - Add a first intake note capturing the request to make `the` fully interactive.
-- Open a draft PR rather than pushing directly to `main`.
+- Open a draft PR to `radix` rather than pushing directly to `main`.
 
 ---
 
 ## Gift Left Here
 
 "Enjoy the journey" is not decoration. It is a working instruction.
+
+🍥

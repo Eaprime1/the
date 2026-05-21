@@ -1,6 +1,6 @@
 # Inbox Deck — Conversation Submission Queue
 
-> Timestamp: `20260518`
+> Timestamp: `202605182056`
 > Status: ♦ Diamond-seed
 > Holder: Eric Pace + ChatGPT
 > Branch: `chatgpt/submission-intake-20260518`
@@ -38,7 +38,8 @@ triaged    → first deck/suit/drop reading completed
 carded     → material became a DECK/cards/*.md card
 branched   → material received a working branch
 PR-opened  → material entered review
-merged     → material entered main
+merged     → PR merged into `radix`
+published  → radix changes flowed to `published`
 archived   → material retained without active use
 quarantined → material needs privacy, safety, or permission review
 ```
@@ -84,7 +85,7 @@ quarantined → material needs privacy, safety, or permission review
 - Submitted by: Eric Pace
 - Permission marker: open within repo workflow
 - Transformation: summarized and structured
-- Destination: `docs/conversation-submission-gateway.md`, draft PR
+- Destination: `docs/conversation-submission-gateway.md`, draft PR to `radix`
 
 ### Raw / Summary
 
@@ -106,3 +107,5 @@ Open a draft PR for this branch and use a GitHub issue as the ongoing queue ledg
 ## Operating Note
 
 This deck should stay append-friendly. New submissions can be added here first, then split into dedicated files/cards when they grow large enough to deserve their own container.
+
+🍥

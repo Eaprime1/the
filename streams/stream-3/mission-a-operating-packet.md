@@ -899,7 +899,7 @@ Before adding content, ask:
 ## 21. Mission A Return — Current State
 
 ```markdown
-# ♣️ STREAM 3 RETURN — 20260519
+# 🏵️ ♣️ STREAM 3 RETURN — 20260519
 
 **Stream ID:** THE-DISP-202605170000-S3  
 **Platform:** ChatGPT  

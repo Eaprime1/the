@@ -703,16 +703,16 @@ Therefore leakage, forgetting, misfiling, symbolic excess, and recursive documen
 
 This is not a bibliography yet. It is a set of reference stars.
 
-### 16.1 Governance / AI Collaboration
+### 16.1 Governance / Platform Collaboration
 
-**NIST AI Risk Management Framework 1.0**
+**NIST platform risk management framework guidance (RMF 1.0)**
 
 Use for:
 
 - governance language
 - review cadence
 - risk awareness
-- AI-human workflow accountability
+- platform-human workflow accountability
 - distinguishing voluntary framework from binding rule
 
 Project translation:

@@ -24,7 +24,7 @@ external_reference_anchors:
 
 # ∞ THE-DISP-202605170000-S3 — ChatGPT
 
-# ♣️ Stream 3 Mission A Operating Packet
+# 🏵️ ♣️ Stream 3 Mission A Operating Packet
 
 **Project:** THE / UNEXUS — Blackjack Iteration (21st)  
 **Mission:** Mission A — Standard Realignment + Stream 3 Stabilization  

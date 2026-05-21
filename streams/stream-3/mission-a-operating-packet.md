@@ -591,7 +591,7 @@ Bridge terms:
 
 - **auctoritas latens** — hidden authority
 - **restitutio potestatis** — restoration of exercisable authority
-- **humilis imperium** — humble command / authority from low ground
+- **humile imperium** — humble command / authority from low ground
 
 Bridge rule:
 

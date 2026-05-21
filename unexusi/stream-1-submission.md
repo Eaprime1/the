@@ -89,7 +89,7 @@ The sensor grammar maps directly to the intake sequence.
 **conatus:** Badge ∞ / Name *conatus* / Suit ♣ Club
 **praesensio:** Badge ◌ / Name *praesensio* / Suit ♦ Diamond
 
-### Finding: ∰ as Meta-Determinative
+### Finding: ♞ as Meta-Determinative
 
 The Fifth Aperture is the **meta-determinative** — the pre-sort position
 that holds a concept before its suit is assigned.

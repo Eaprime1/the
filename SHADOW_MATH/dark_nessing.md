@@ -187,7 +187,7 @@ dark nessing              ← Chaos / the eternal prior medium
   ↓
 ♣ Club → ♥ Heart → ♠ Spade   ← Kosmos developing
   ↓
-♞ Aperture / dissolution   ← return to Chaos / nessing reclaimed
+∘ Aperture / dissolution   ← return to Chaos / nessing reclaimed
 ```
 
 The cycle is Chaos → Kosmos → Chaos. Nessing → structure → nessing.
@@ -225,4 +225,3 @@ present in every equation, doing foundational work, never written out.
 
 The one who nesses loudly and is still not heard.
 Dark nessing is always the -1 in the equation of form.
-

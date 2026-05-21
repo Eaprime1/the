@@ -90,14 +90,9 @@ Anyone reading it knows exactly where it came from and when.
 ---
 
 ## Suit Assignment for Transformed Documents
-
-```
-♦ Diamond   = freshly converted, first arrival in repo — seed state
-♣ Club      = actively being edited / refined after conversion — carbonite
-♥ Heart     = in active use / being read / shared — interactive
-♠ Spade     = archived, canonical, stable — pinnacle
-∘ Aperture  = transition point — document type or state not yet resolved into the origin four
-```
+99:♠ Spade     = archived, canonical, stable — pinnacle
+100:♞ Aperture  = transition point for beyond-origin suits or state resolution
+101:```
 
 A converted document enters as Diamond.
 It moves through suits as it is worked on and eventually archived.

@@ -1,4 +1,4 @@
-# Writing Systems as Award Architecture
+# 🏵️ Writing Systems as Award Architecture
 
 > The three-part structure of all writing systems as the universal architecture of meaning.
 > Status: ♣ Club — mapping complete, example built

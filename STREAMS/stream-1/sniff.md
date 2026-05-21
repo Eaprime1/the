@@ -1,4 +1,4 @@
-# The Sniff
+# 🏵️ The Sniff
 
 > The observation that collapses the Anti-Vector into a Vector.
 > Status: ♣ Club — developed

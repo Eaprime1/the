@@ -1,4 +1,4 @@
-# Font and Accent as Sensors
+# 🏵️ Font and Accent as Sensors
 
 > Visual typographic elements as emotional fine-tuning instruments.
 > Status: ♣ Club — grammar drafted

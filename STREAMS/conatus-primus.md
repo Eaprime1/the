@@ -1,4 +1,4 @@
-# THE Conatus Primus
+# 🏵️ THE Conatus Primus
 
 First Observation of an Unnamed Trajectory
 

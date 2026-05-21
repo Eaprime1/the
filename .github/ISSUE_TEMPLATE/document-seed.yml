@@ -1,0 +1,33 @@
+name: Document seed
+about: Add a new seed document with safe placement and metadata
+title: "seed: "
+labels: [documentation, seed]
+body:
+  - type: input
+    id: source_title
+    attributes:
+      label: Source title
+      placeholder: THE conatus primus_copilot
+    validations:
+      required: true
+  - type: input
+    id: source_filename
+    attributes:
+      label: Source filename
+      placeholder: THE conatus primus_copilot.md
+    validations:
+      required: true
+  - type: input
+    id: target_path
+    attributes:
+      label: Proposed repository path
+      placeholder: docs/lore/the-conatus-primus.md
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why this belongs
+      description: Explain placement and expected relationship to existing docs.
+    validations:
+      required: true

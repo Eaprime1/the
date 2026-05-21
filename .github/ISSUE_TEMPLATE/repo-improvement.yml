@@ -1,0 +1,29 @@
+name: Repo improvement
+about: Propose a practical repository structure or workflow improvement
+title: "chore: "
+labels: [documentation, architecture]
+body:
+  - type: textarea
+    id: pain_point
+    attributes:
+      label: Current pain point
+      description: What is hard to understand or maintain?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+      description: Describe a low-risk change with clear file targets.
+    validations:
+      required: true
+  - type: dropdown
+    id: risk
+    attributes:
+      label: Risk level
+      options:
+        - low
+        - medium
+        - high
+    validations:
+      required: true

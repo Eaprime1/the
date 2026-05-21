@@ -1,7 +1,7 @@
 # NAVIGO.md — Navigation Guide
 
 > How to find your way through this repository.
-> Timestamp: `202605141806`
+> Timestamp: `202605190752`
 
 ---
 
@@ -32,6 +32,13 @@ the/
 ├── docs/cards-of-deck/     ← ChatGPT architecture documents
 │   ├── building-plan.md    ← full Cards of Deck building plan
 │   └── serious-play-reality-check-17-lens.md
+│
+├── TRANSFORM/              ← document metamorphosis system
+│   ├── TRANSFORM_SCHEMA.md ← architecture + one-of-each-type rule
+│   ├── types/              ← gdoc, pdf, markdown type profiles
+│   ├── processes/          ← gdoc-to-md, pdf-to-md step-by-step
+│   ├── templates/          ← origin header copy-paste template
+│   └── registry.md         ← index of all transformed documents
 │
 ├── intake/                 ← incoming material processing
 │   ├── README.md
@@ -74,6 +81,9 @@ the/
 | See noticed-but-not-building concepts | `satus/README.md` |
 | Understand the intake layer | `intake/triad-thee-yod-ember.md` |
 | Start a quest | `quests/000-thee-the-door.md` |
+| Convert a Google Doc to .md | `TRANSFORM/processes/gdoc-to-md.md` |
+| Convert a PDF to .md | `TRANSFORM/processes/pdf-to-md.md` |
+| See all transformed documents | `TRANSFORM/registry.md` |
 
 ---
 
@@ -89,10 +99,13 @@ Every session should pass through one of these:
 
 ---
 
-## Active Branches
+## Recent Branches
 
 ```
-main                          → stable
-claude/setup-deck-system-XxYXG → this deck build (active)
-feature/cards-of-deck         → ChatGPT docs (merged into docs/cards-of-deck/)
+main                              → stable
+claude/setup-deck-system-XxYXG   → deck build (merged)
+claude/gdoc-to-markdown-Cm4Vp    → TRANSFORM system (active)
+feature/cards-of-deck             → ChatGPT docs (merged into docs/cards-of-deck/)
 ```
+
+🍥

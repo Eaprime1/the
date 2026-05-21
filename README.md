@@ -28,6 +28,7 @@ satus/              sowings — noticed-but-not-building-yet research seeds
 quests/             RPG-style quest definitions (real tasks, real outcomes)
 seeds/              bootstrap scripts, dotfiles, package lists
 guides/             lore-woven practical documentation
+docs/               origin statements and reference documents
 world/              setting, lore, factions — the conceptual "place"
 unexusi/            connection spec for the Unexusi identity layer
 ```

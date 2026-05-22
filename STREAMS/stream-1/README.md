@@ -3,7 +3,7 @@
 ```
 Stream ID:      THE-DISP-202605170000-S1
 Platform:       Claude.ai — THE Project
-Suit:           ♣️ Club of Aces — active development
+Suit:           ♣ Club of Aces — active development
 Return Address: THE Project — Custos Conversation — Claude.ai
 Maker's Mark:   ∞pace∞
 Motion:         EXPANDING

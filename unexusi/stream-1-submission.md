@@ -173,7 +173,7 @@ SHADOW_MATH/the_illuminator.md   → praesensio precedes the inward-shine
 SHADOW_MATH/dark_nessing.md      → Anti-Sniff = the nessing sea before concretio
 DECK/CARD_INTAKE.md              → determinatio is the suit-assignment act
 world/the-the.md                 → context for THE's public-facing role
-intake/triad-thee-yod-ember.md   → Sniff → THEE → YOD is the intake triad
+intake/triad-thee-yod-ember.md   → THEE → YOD → EMBER is the intake triad
 ```
 
 ---

@@ -85,33 +85,27 @@ THE/
 
 ├── PRE_QOPPA/
 
-│   ├── qoppa.md                     ← ϙ defined; the Q before Queue
-
-│   ├── intake_protocol.md           ← handles all file types on arrival
-
-│   ├── fubar_interrupt.md           ← instant^11 emergency check
-
-│   └── agent_hierarchy.md           ← plugin master → agents → routines → tasks
+│   └── README.md                    ← PRE_QOPPA overview
 
 ├── FIRST_21_SOMETHINGS/             ← The quest; Yod guides development
 
-│   ├── 00_void.md                   ← pre-pressure state
+│   ├── 00.md                        ← pre-pressure state
 
-│   ├── 01_need.md                   ← NEXUS; the first need
+│   ├── 01.md                        ← NEXUS; the first need
 
-│   ├── 02_witness.md
+│   ├── 02.md
 
-│   ├── 03_triad.md
+│   ├── 03.md
 
-│   ├── 04_direction.md
+│   ├── 04.md
 
-│   ├── 05_prime_track.md            ← 5; only natural prime in its lineage
+│   ├── 05.md                        ← 5; only natural prime in its lineage
 
-│   ├── 06_balance.md
+│   ├── 06.md
 
-│   ├── 07_prime_synergy.md          ← triple-7 reaches 21; heptad
+│   ├── 07.md                        ← triple-7 reaches 21; heptad
 
-│   ├── 08_form.md
+│   ├── 08.md
 
 │   ├── 09_wobble.md
 

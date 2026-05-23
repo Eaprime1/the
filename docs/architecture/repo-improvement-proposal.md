@@ -28,7 +28,7 @@ THE/
 
 ## Naming conventions
 
-- Use lowercase, hyphen-separated filenames.
+- Prefer lowercase, hyphen-separated filenames for new documents.
 - Keep ceremonial titles in document bodies.
 - Keep BirthMark lines where relevant.
 - Normalize paths without changing source meaning.

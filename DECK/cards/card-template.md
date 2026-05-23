@@ -12,7 +12,7 @@ card:
   name: ""                    # display name of this card
   id: ""                      # slug / unique identifier
   timestamp: ""               # when this card was first recognized
-  suit: ""                    # ♦ diamond | ♣ club | ♥ heart | ♠ spade | aperture
+  suit: ""                    # ♦ diamond | ♣ club | ♥ heart | ♠ spade | ♞ aperture
   drop_state: 0               # 0 = not in play | 1 = singular | 5 = expanded field
   deck: ""                    # work | play-wonka | create-pandora | synergy-spark | unknown
 ```

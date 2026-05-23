@@ -1,4 +1,4 @@
-# DECK_SCHEMA — Cards of Deck Architecture
+# 🏵️ DECK_SCHEMA — Cards of Deck Architecture
 
 > Timestamp anchor: `202605141806`
 > Status: seed → working copy

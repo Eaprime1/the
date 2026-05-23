@@ -1,4 +1,4 @@
-# Five Binary — SHADOW_MATH
+# 🏵️ Five Binary — SHADOW_MATH
 
 > The intersection of binary (2-prime) and pentadic (5-prime) logic.
 > Timestamp: `202605141806`
@@ -50,7 +50,7 @@ The zero is not nothing — it is the nessing space between two ones.
 
 This is the shape of:
 - A blackjack hand flanking an unknown dealer card
-- A suite system framing the aperture (Diamond · Club · Heart · Spade · ∅ · Spade · Heart · Club · Diamond)
+- A suite system framing the aperture (Diamond · Club · Heart · Spade · ♞ · Spade · Heart · Club · Diamond)
 - A sentence with a word you can't yet name in the center
 
 ---
@@ -65,7 +65,7 @@ Every card occupies one of five states at any time:
 2 — active           → in play / being worked (♣ Club)
 3 — in relation      → connected to other cards / social (♥ Heart)
 4 — resolved         → pinnacle / placed / complete (♠ Spade)
-5 — aperture         → beyond the four / dissolved / returned to sea
+5 — aperture         → beyond the four / expanded field / returned to sea
 ```
 
 A card that reaches state 5 has not disappeared.

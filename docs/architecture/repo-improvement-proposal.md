@@ -28,7 +28,8 @@ THE/
 
 ## Naming conventions
 
-- Prefer lowercase, hyphen-separated filenames for new documents.
+- Prefer lowercase, hyphen-separated filenames for new documentation files.
+- Keep existing canonical root/system filenames as-is (for example: `AGENTS.md`, `NAVIGO.md`, `DECK/DECK_SCHEMA.md`).
 - Keep ceremonial titles in document bodies.
 - Keep BirthMark lines where relevant.
 - Normalize paths without changing source meaning.

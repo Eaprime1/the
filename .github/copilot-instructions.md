@@ -107,31 +107,31 @@ THE/
 
 │   ├── 08.md
 
-│   ├── 09_wobble.md
+│   ├── 09.md
 
-│   ├── 10_manager.md
+│   ├── 10.md
 
-│   ├── 11_architecture.md
+│   ├── 11.md
 
-│   ├── 12_cycle.md
+│   ├── 12.md
 
-│   ├── 13_frame.md                  ← Ophiuchus; 13th holding all 12-part systems
+│   ├── 13.md                        ← Ophiuchus; 13th holding all 12-part systems
 
-│   ├── 14_mirror.md
+│   ├── 14.md
 
-│   ├── 15_development.md
+│   ├── 15.md
 
-│   ├── 16_rough_final.md
+│   ├── 16.md
 
-│   ├── 17_prime_final.md            ← irreducible; the striker
+│   ├── 17.md                        ← irreducible; the striker
 
-│   ├── 18_shadow_manifest.md
+│   ├── 18.md
 
-│   ├── 19_new_progression.md
+│   ├── 19.md
 
-│   ├── 20_gathering.md
+│   ├── 20.md
 
-│   └── 21_apex.md                   ← 7+7+7; Blackjack; Dream Salute; polar trigger
+│   └── 21.md                        ← 7+7+7; Blackjack; Dream Salute; polar trigger
 
 ├── SHADOW_MATH/
 
@@ -151,11 +151,7 @@ THE/
 
 └── 21_DREAM_SALUTE/
 
-    ├── dream_salute_doc.html        ← living document (diaspora artifact)
-
-    ├── dev_plan.html                ← development plan
-
-    └── gathered.md                  ← compiled reference from all sources
+    └── README.md                    ← Dream Salute overview
 
 
 GIT WORKFLOW — RADIX BRANCH PROTOCOL

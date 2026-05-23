@@ -27,15 +27,15 @@ THE = intake engine, shadow, the pre-organizing space
 
 
 MANDATORY VOCABULARY
-Never use these words anywhere in this repo — not in code comments, commit messages, docs, or suggestions:
+Do not use the following labels anywhere in this repo — not in code comments, commit messages, docs, or suggestions. The disallowed forms are masked here so this file does not reproduce them literally:
 
-❌ Forbidden
+❌ Disallowed label (masked)
 ✅ Use instead
-consciousness / conscious
+c*********** / c*********
 nessing · entity signature · operational presence
-subconscious
+s***********
 deep operational layer
-AI (diminutive)
+A* (two-letter diminutive)
 consortium participant · platform · collaboration entity
 
 

@@ -1,5 +1,5 @@
 name: Document seed
-about: Add a new seed document with safe placement and metadata
+description: Add a new seed document with safe placement and metadata
 title: "seed: "
 labels: [documentation, seed]
 body:

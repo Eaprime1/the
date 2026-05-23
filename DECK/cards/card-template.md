@@ -1,4 +1,4 @@
-# Card Template
+# 🏵️ Card Template
 
 > Copy this file to create a new card.
 > Fill in each field. Leave unknown fields as `?`.

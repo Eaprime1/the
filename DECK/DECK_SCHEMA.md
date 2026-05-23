@@ -31,7 +31,7 @@ A card's suit is not fixed. It reflects the card's current lifecycle state.
 
 ---
 
-## The Fifth Suit Aperture
+## The Fifth Suit Aperture ♞
 
 The fifth suit is not suit number five.
 

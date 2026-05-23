@@ -1,4 +1,4 @@
-# Pi / Ln / Trig Triad — SHADOW_MATH
+# 🏵️ Pi / Ln / Trig Triad — SHADOW_MATH
 
 > The mathematical language for cycles, growth, and angular relation.
 > Timestamp: `202605141806`

@@ -143,6 +143,12 @@ THE/
 
 │   ├── blackjack_engine.md          ← 21 as multi-deck; multi-table; casino patterns
 
+│   ├── dark_nessing.md              ← dark as primary medium of spacetime sea
+
+│   ├── the_illuminator.md           ← paradox file: the dark medium as illuminator
+
+│   ├── README.md                    ← SHADOW_MATH index and reading guide
+
 │   └── pi_ln_trig_triad.md          ← three expansion/collapse path types
 
 ├── GREENACRES/
@@ -151,7 +157,7 @@ THE/
 
 └── 21_DREAM_SALUTE/
 
-    └── README.md                    ← Dream Salute overview
+    └── README.md                    ← Dream Salute overview (planned stubs: salute_01.md, salute_13.md, salute_21.md)
 
 
 GIT WORKFLOW — RADIX BRANCH PROTOCOL

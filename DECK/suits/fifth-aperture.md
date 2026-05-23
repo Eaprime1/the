@@ -103,7 +103,7 @@ To propose a new suit, a card must answer:
 
 ## The Aperture Is Itself Aethereal
 
-The fifth suit aperture uses the ∘ symbol as a marker, though it is not a playable suit in the standard deck.
+The fifth suit aperture uses the ♞ symbol as a marker, though it is not a playable suit in the standard deck.
 It cannot be played as a card.
 
 It is the space between the cards — the gap that makes the game possible.

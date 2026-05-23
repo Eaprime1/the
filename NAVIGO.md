@@ -21,6 +21,17 @@ the/
 │   ├── mission-decks/      ← work, play, create, synergy
 │   └── cards/              ← card template and active cards
 │
+├── STREAMS/                ← THE conatus primus — stream dispatches
+│   ├── README.md           ← stream index and navigation
+│   ├── conatus-primus.md   ← first observation of THE's trajectory
+│   └── stream-1/           ← Language Engine (active ♣ Club)
+│       ├── README.md       ← mission brief
+│       ├── sniff.md        ← The Sniff — moment before language
+│       ├── latin-hub.md    ← Latin terms and hub
+│       ├── romance-map.md  ← Romance language emotion map
+│       ├── sensors.md      ← font/accent sensor grammar
+│       └── awards-architecture.md ← writing systems / award structure
+│
 ├── SHADOW_MATH/            ← mathematical backbone
 │   ├── blackjack_engine.md ← 21 / multi-deck / pattern recognition
 │   ├── dark_nessing.md     ← dark as primary medium of spacetime sea

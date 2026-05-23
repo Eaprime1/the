@@ -17,7 +17,7 @@ For each incoming item, ask:
     (Work / Play Wonka / Create Pandora / Synergy Spark / Unknown)
 
 3.  Which suit-state is it showing now?
-    (♦ Diamond-seed / ♣ Club-working / ♥ Heart-aethereal / ♠ Spade-pinnacle / Aperture)
+    (♦ Diamond-seed / ♣ Club-working / ♥ Heart-aethereal / ♠ Spade-pinnacle / ♞ Aperture)
 
 4.  Is it a seed, working copy, pinnacle, interaction, or beyond-origin aperture?
     (confirm suit reading)

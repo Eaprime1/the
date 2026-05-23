@@ -34,7 +34,7 @@ This is not a flaw. This is what circles do — they continue.
 **Applied to the deck cycle:**
 
 ```
-♦ Diamond → ♣ Club → ♥ Heart → ♠ Spade → ∰ → ♦ Diamond
+♦ Diamond → ♣ Club → ♥ Heart → ♠ Spade → ♞ → ♦ Diamond
 ```
 
 This is one full cycle. The cycle is circular.

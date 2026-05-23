@@ -1,4 +1,4 @@
-# Card Intake Protocol
+# 🏵️ Card Intake Protocol
 
 > Every incoming concept, document, fragment, entity, or unknown is treated
 > as a possible card. This protocol runs before sorting.

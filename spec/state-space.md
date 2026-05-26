@@ -1,9 +1,3 @@
-
-## `spec/state-space.md` – sketch
-
-And here’s a first sketch for `spec/state-space.md`. You can expand each band later.
-
-```markdown
 # THE State-Space Specification
 Axes, Bands, and Mapping to X
 

@@ -1,12 +1,19 @@
 #!/usr/bin/env bash
-# Reads .prime and reports current prime progression state.
+# Reads .prime and reports current prime progression state. 🍥
 set -euo pipefail
 
 PRIMES=(2 3 5 7 11 13 17 19 23 29 31 37 41 43 47)
-CURRENT=$(cat .prime 2>/dev/null | tr -d '[:space:]')
+
+if [[ ! -f .prime ]]; then
+  echo "No .prime file found."
+  echo "Run: echo '3' > .prime"
+  exit 1
+fi
+
+CURRENT=$(tr -d '[:space:]' < .prime)
 
 if [[ -z "$CURRENT" ]]; then
-  echo "No .prime file found."
+  echo "No prime state set in .prime."
   echo "Run: echo '3' > .prime"
   exit 1
 fi

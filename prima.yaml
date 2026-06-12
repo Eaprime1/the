@@ -1,21 +1,18 @@
-# prima.yaml — Concept Manifest
-# Fill this in when you fork the template.
-# Run: bash tools/scan_lexeme.sh to find unfilled placeholders.
+# prima.yaml — Concept Manifest 🏵️
 
 concept:
-  name: "My Prima Terminal"        # display name of this concept
-  slug: "my-prima-terminal"        # url-safe identifier, no spaces
-  version: "0.1.0"
-  tagline: "One line that says what this world is."
-  theme: "general"                 # e.g. unix, networking, coding, creative, survival
+  name: "THE"
+  slug: "the"
+  version: "0.3.0"
+  tagline: "Exits-only intake engine for Cards of Deck progression."
+  theme: "deck-intake"
 
 author:
-  handle: ""                       # your handle / team name
-  contact: ""                      # optional — email, url, or @handle
+  handle: "Eaprime1"
+  contact: "https://github.com/Eaprime1"
 
 runtime:
-  platform: "termux"               # termux | linux | macos | any
-  min_android_api: 24              # Termux only — omit for other platforms
+  platform: "any"
   required_packages: []
   optional_packages: []
 
@@ -24,7 +21,7 @@ unexusi:
   spec: "unexusi/connect.yaml"
 
 quests:
-  start: "quests/000-thee-the-door.md"   # first quest — name the concept
+  start: "quests/000-thee-the-door.md"
   format_spec: "quests/QUEST_SCHEMA.md"
 
 world:
@@ -54,4 +51,5 @@ tools:
   ember: "tools/ember.sh"
   prime_check: "tools/prime_check.sh"
   scan_lexeme: "tools/scan_lexeme.sh"
+  docs_consistency_check: "tools/docs_consistency_check.sh"
   ethics_check: "tools/ethics_check.md"

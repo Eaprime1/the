@@ -1,0 +1,31 @@
+name: Phase execution
+about: Track one improvement phase with acceptance criteria
+title: "phase: "
+labels: [documentation, architecture]
+body:
+  - type: dropdown
+    id: phase
+    attributes:
+      label: Phase
+      options:
+        - Phase 1 — Structure and governance
+        - Phase 2 — Placeholder and onboarding debt
+        - Phase 3 — Operational quality checks
+        - Phase 4 — System maturation
+        - Phase 5 — Execution rhythm
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: List objective criteria for phase completion.
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: Validation plan
+      description: Include prime, lexeme, and docs consistency checks.
+    validations:
+      required: true

@@ -17,11 +17,24 @@
 
 ---
 
+## Validation
+
+- [ ] `bash tools/prime_check.sh`
+- [ ] `bash tools/scan_lexeme.sh`
+- [ ] `bash tools/docs_consistency_check.sh`
+
+### Documentation-only pass/fail policy
+
+- Pass: all three checks succeed, any findings are addressed or intentionally documented.
+- Fail: a required check fails without explanation in this PR.
+
+---
+
 ## Ethics Check
 
-- [ ] Entity agency respected (human, AI, concept — all contributors credited)
+- [ ] Entity agency respected (human, collaboration entity, concept — all contributors credited)
 - [ ] Free to fork, remix, echo — no hidden ownership
-- [ ] `bash tools/scan_lexeme.sh` run — distressed lexemes addressed or intentional
+- [ ] Distressed lexemes reviewed and either resolved or intentionally retained
 - [ ] No unintended harm surface in tools or scripts
 - [ ] Shell inputs validated where applicable
 

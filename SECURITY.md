@@ -1,11 +1,11 @@
-# Security Policy
+# Security Policy 🏵️
 
 ## Reporting a Vulnerability
 
-If you discover a security issue, please report it privately using one of the following channels:
+If you discover a security issue, report it privately using GitHub Security Advisories:
 
-- Email: `security@example.com` **(placeholder: replace with the project's real security contact)**
-- GitHub Security Advisories: `https://github.com/OWNER/REPO/security/advisories/new` **(placeholder: replace `OWNER/REPO` with this repository)**
+- https://github.com/Eaprime1/the/security/advisories/new
+
 Please include:
 
 - a description of the vulnerability
@@ -22,4 +22,4 @@ Maintainers will:
 3. work on a fix and release plan
 4. communicate status updates when appropriate
 
-Please do not publicly disclose security vulnerabilities until a fix is available.
+Please do not publicly disclose vulnerabilities until a fix is available.

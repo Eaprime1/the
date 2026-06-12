@@ -1,58 +1,41 @@
-# Prima Terminal — Template
+# THE — Shadow of Primal · pre(qoppa)uel Engine · House of Confusion 🏵️
 
-A living template for building **prima terminal** concepts: RPG-style, quest-driven terminal environments where the journey through the command line is the point.
+THE is the intake engine and continuity structure for the Cards of Deck system.
+It receives first, sorts later, and preserves lineage while work is still in motion.
 
-## What Is a Prima Terminal?
+## Start here in 10 minutes
 
-A prima terminal is a **concept repo** — a seed-and-quest package that transforms a bare terminal session into a structured, story-driven experience. It defines a world, gives the user quests, and guides them through building real skills and real tools.
+1. Read `AGENTS.md`
+2. Read `NAVIGO.md`
+3. Read `DECK/DECK_SCHEMA.md`
+4. Read `DECK/CARD_INTAKE.md`
+5. Check `turns/log.md`
+6. Check `DECK/components/liminal-readme.md`
 
-It does **not** bundle a terminal emulator. The runtime (Termux, bash, zsh, whatever the platform provides) lives at the system layer. This repo is the concept riding on top of it.
+## Repository standards
 
-```
-[ Termux / system terminal ]   ← runtime engine (installed on device, not in this repo)
-        ↕
-    [ Unexusi ]                ← identity + connection layer
-        ↕
-[ Prima Terminal Concept ]     ← this repo: quests, seeds, guides, world
-```
+For naming, branch flow, vocabulary, and validation rules, use:
 
-## Repo Structure
+- `docs/architecture/repo-standards-index.md`
 
-```
-prima.yaml          concept manifest — name, version, runtime requirements
-DECK/               Cards of Deck architecture, suits, components, and intake
-SHADOW_MATH/        mathematical backbone for the deck system
-intake/             incoming fragments and sorting material
-turns/              session history and prime-state log
-satus/              sowings — noticed-but-not-building-yet research seeds
-quests/             RPG-style quest definitions (real tasks, real outcomes)
-seeds/              bootstrap scripts, dotfiles, package lists
-guides/             lore-woven practical documentation
-docs/               origin statements and reference documents
-world/              setting, lore, factions — the conceptual "place"
-unexusi/            connection spec for the Unexusi identity layer
-```
+## Core structure
 
-## How to Fork This Template
+- `DECK/` — lifecycle architecture, suits, cards, components, mission decks
+- `STREAMS/` — stream dispatches and stream documents
+- `SHADOW_MATH/` — mathematical backbone and progression docs
+- `TRANSFORM/` — document metamorphosis schema, processes, registry
+- `intake/` — incoming fragments and triad routing
+- `turns/` — append-only session memory
+- `docs/registry/` — canonical registries (terms, symbols, streams, BirthMarks)
 
-1. Fork or use this repo as a GitHub template.
-2. Edit `prima.yaml` — give the concept its name, theme, and runtime requirements.
-3. Write the `world/` — who lives here, what this place is.
-4. Build out `quests/` — start with the awakening quest, then grow.
-5. Fill `seeds/` — dotfiles, packages, bootstrap scripts the concept needs.
-6. Write `guides/` — practical docs written as if they belong to the world.
-7. Define `unexusi/connect.yaml` — how users authenticate and carry their state.
+## Validation
 
-## Quest Design Philosophy
+Run these before review:
 
-Quests are **real work with narrative framing**, not tutorials disguised as stories.
-
-- A quest teaches a skill by requiring its actual use.
-- Completion has a verifiable outcome: a file exists, a script runs, a tool works.
-- Multiple members can contribute quests — the format is a contract, not a script.
-
-See `quests/QUEST_SCHEMA.md` for the full spec.
+- `bash tools/prime_check.sh`
+- `bash tools/scan_lexeme.sh`
+- `bash tools/docs_consistency_check.sh`
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). Multiple members can fill in quests, guides, world lore, and seeds — the template structure is designed for collaborative expansion.
+Use `CONTRIBUTING.md` as the authoritative contribution policy.

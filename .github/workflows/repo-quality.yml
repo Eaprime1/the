@@ -1,0 +1,27 @@
+name: repo-quality
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - radix
+
+permissions:
+  contents: read
+
+jobs:
+  quality-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+
+      - name: Prime check
+        run: bash tools/prime_check.sh
+
+      - name: Distressed lexeme scan
+        run: bash tools/scan_lexeme.sh
+
+      - name: Docs consistency check
+        run: bash tools/docs_consistency_check.sh

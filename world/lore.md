@@ -1,35 +1,26 @@
-# World Lore
+# World Lore — THE 🏵️
 
-*This is the template placeholder. Replace everything below with the lore of your concept.*
-
----
+THE is the house where intake happens before classification.
+It receives fragments, documents, and unresolved signals, then routes them into structure without erasing lineage.
 
 ## The Setting
 
-Describe the world in 2–4 paragraphs. Where are we? What kind of place is this?
-What is the atmosphere — hostile, curious, ancient, neon, broken, growing?
+The setting is a working threshold: part archive, part intake chamber, part deck table.
+Contributors and tools enter with incomplete material, and the system holds it long enough for reliable placement.
 
-The setting should feel like a place a player inhabits, not a classroom they
-are sitting in. The terminal is not a tool in this world — it is the world.
+The atmosphere is active, not final. Work begins in seed form, moves through working form, and can become canonical only after review and continuity checks.
 
 ## History
 
-What happened before the player arrived? What created this place?
-A few paragraphs of history give quests their stakes.
+THE emerged as the pre(qoppa)uel layer for Cards of Deck: a place where incoming material is witnessed before it is forced into rigid categories.
+From there, deck architecture, stream routing, transform lineage, and turn logging were established as parallel continuity systems.
 
 ## The Prompt
 
-What does the command prompt represent in this world? In a prima terminal, the
-prompt is never just a symbol — it is a character, an environment, a signal.
-
-Give the prompt a meaning that fits your concept.
+The prompt represents a door-state question.
+A command in this world is not just execution; it is a commitment to route a fragment with context, custody, and next action.
 
 ## What Players Are
 
-Are players travelers? Operators? Archaeologists? Builders? Survivors?
-Define the player's role in this world in one paragraph.
-
----
-
-*Keep lore entries short and evocative. Detail that does not help a player
-understand what to do belongs in `world/factions.md` or supplemental lore files.*
+Players are contributors maintaining continuity under motion.
+They observe, route, refine, and stabilize cards, streams, and transformed documents while preserving provenance.

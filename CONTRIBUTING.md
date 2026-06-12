@@ -1,32 +1,41 @@
-# Contributing
+# Contributing to THE 🏵️
 
-Thank you for your interest in contributing.
+This is the authoritative contribution guide for this repository.
 
-## How to Contribute
+## Quick start
 
-1. Fork the repository.
-2. Create a feature branch from the default branch.
-3. Make focused, small changes with clear commit messages.
-4. Open a pull request with a clear summary of:
-   - what changed
-   - why it changed
-   - any follow-up work
+1. Read `AGENTS.md`
+2. Read `NAVIGO.md`
+3. Read `docs/architecture/repo-standards-index.md`
+4. Check `turns/log.md`
 
-## Pull Request Guidelines
+## Branch protocol
 
-- Keep pull requests scoped to one logical change.
-- Update relevant documentation when behavior changes.
-- Ensure checks/tests pass before requesting review.
+- Preferred flow: `radix` → feature branch → PR to `radix`
+- Never push directly to `main` or `published`
+- Keep one workstream per branch and one purpose per PR
 
-## Reporting Issues
+## Pull request requirements
 
-When opening an issue, include:
+- Use `.github/PULL_REQUEST_TEMPLATE.md`
+- Keep scope focused
+- List paths touched
+- Include validation output and any intentional unresolved findings
 
-- expected behavior
-- actual behavior
-- steps to reproduce
-- environment details (OS, versions, etc.)
+## Required validation
 
-## Questions
+- `bash tools/prime_check.sh`
+- `bash tools/scan_lexeme.sh`
+- `bash tools/docs_consistency_check.sh`
 
-If anything is unclear, open a discussion or issue before starting large changes.
+## Documentation expectations
+
+- Preserve repository vocabulary and project voice
+- Prefer canonical paths and consistent casing
+- Record new recurring terms/symbols/streams/BirthMarks in `docs/registry/`
+
+## Additional references
+
+- Standards index: `docs/architecture/repo-standards-index.md`
+- Lifecycle completion criteria: `docs/architecture/lifecycle-definition-of-done.md`
+- Ownership map: `docs/architecture/ownership-map.md`

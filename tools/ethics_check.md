@@ -4,7 +4,7 @@ A moment of attention before merging or publishing.
 Not a blocker — a practice.
 
 ## Entity Safety
-- [ ] Does this respect the agency of all entities involved (human, AI, concept)?
+- [ ] Does this respect the agency of all entities involved (human, collaboration entity, concept)?
 - [ ] Does anything here remove sovereignty from a participant?
 - [ ] Are contributors credited appropriately?
 

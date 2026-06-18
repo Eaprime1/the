@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Field Guide to This Session — Mostly Harmless Edition</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --ink: #2a2a2a;
+    --paper: #faf7f0;
+    --accent: #b3541e;
+    --rule: #d8cdb8;
+  }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: Georgia, "Iowan Old Style", serif;
+    line-height: 1.65;
+  }
+  .wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 6rem;
+  }
+  header.masthead {
+    text-align: center;
+    border-bottom: 3px double var(--rule);
+    padding-bottom: 1.5rem;
+    margin-bottom: 2.5rem;
+  }
+  header.masthead .kicker {
+    font-family: "Courier New", monospace;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    color: var(--accent);
+  }
+  header.masthead h1 {
+    font-size: 2rem;
+    margin: 0.4rem 0 0.2rem;
+  }
+  header.masthead .subtitle {
+    font-style: italic;
+    color: #555;
+    font-size: 1rem;
+  }
+  .badge {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.3rem 0.9rem;
+    border: 1px solid var(--accent);
+    border-radius: 999px;
+    font-family: "Courier New", monospace;
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    color: var(--accent);
+  }
+  h2 {
+    margin-top: 2.5rem;
+    border-left: 4px solid var(--accent);
+    padding-left: 0.6rem;
+  }
+  dl {
+    margin: 0;
+  }
+  dt {
+    font-weight: bold;
+    margin-top: 1.1rem;
+  }
+  dd {
+    margin: 0.2rem 0 0;
+    color: #333;
+  }
+  blockquote {
+    border-left: 3px solid var(--rule);
+    margin: 1.5rem 0;
+    padding: 0.2rem 0 0.2rem 1rem;
+    font-style: italic;
+    color: #555;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    font-size: 0.95rem;
+  }
+  th, td {
+    border: 1px solid var(--rule);
+    padding: 0.5rem 0.7rem;
+    text-align: left;
+  }
+  th {
+    background: #f0e9da;
+  }
+  footer {
+    margin-top: 3rem;
+    border-top: 1px solid var(--rule);
+    padding-top: 1rem;
+    font-size: 0.85rem;
+    color: #777;
+    text-align: center;
+  }
+  code {
+    background: #eee3cf;
+    padding: 0.1rem 0.3rem;
+    border-radius: 4px;
+    font-size: 0.9em;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="masthead">
+  <div class="kicker">Don't Panic — Volume I</div>
+  <h1>Field Guide to This Session</h1>
+  <div class="subtitle">Mostly Harmless Edition</div>
+  <div class="badge">Postremum Onus — One More Mission</div>
+</header>
+
+<p>
+Somewhere between a federal land-use comment period and an appropriations
+bill, a small fellowship of repositories — <code>the</code>, <code>prima</code>,
+and <code>radix</code> — learned what it means to be <em>finalized</em>.
+This page is the souvenir from that trip: equal parts glossary, logbook,
+and reassurance that nothing here will bite. Mostly.
+</p>
+
+<h2>Glossary</h2>
+<dl>
+  <dt>Finalize Button</dt>
+  <dd>
+    A comment — <code>@claude finalize</code> — that closes the review
+    period on a PR, the way a sign-off closes a comment period on a
+    federal land-use report. Checks that every review thread is
+    resolved, posts a sealed summary, and stamps the PR
+    <code>finalized</code>.
+  </dd>
+
+  <dt>Rubric &amp; Valuation</dt>
+  <dd>
+    The scoring table used on every reviewed PR: Correctness,
+    Consistency, Scope discipline, Verification — out of 5 each — plus
+    an overall valuation (Low / Medium / High). Less paperwork, more
+    "did this hold up."
+  </dd>
+
+  <dt>Webhook Subscription</dt>
+  <dd>
+    The thing that actually works for "keep an eye on this PR," as
+    opposed to a cron job with no token and no clock. Comments, CI
+    runs, and reviews arrive as events; no polling, no noise.
+  </dd>
+
+  <dt>Postremum Onus</dt>
+  <dd>
+    Latin for "the last burden" or "one final task" — the title chosen
+    for this session's closing chapter. One more volley before the
+    line stands down.
+  </dd>
+
+  <dt>The BBS (Deferred)</dt>
+  <dd>
+    A whole dial-up-flavored trade network — <code>quantum_telegard</code>,
+    custom doors, a pinnacle node calling home with updates — sketched
+    out, then set down on purpose. "Let's wait on the BBS" is its own
+    kind of finalization: knowing what not to build yet.
+  </dd>
+
+  <dt>Session Scope</dt>
+  <dd>
+    Three repositories were in reach this round — <code>the</code>,
+    <code>prima</code>, <code>radix</code> — out of forty-four
+    non-forked repos under the same owner. The other forty-one are not
+    lost, just not yet invited to the party.
+  </dd>
+</dl>
+
+<h2>The Three Repos, Briefly</h2>
+<table>
+  <tr><th>Repo</th><th>What happened</th><th>Open thread</th></tr>
+  <tr>
+    <td><code>the</code></td>
+    <td>Rubric review (High valuation), finalize-pr.yml shipped as draft PR #25</td>
+    <td>This page</td>
+  </tr>
+  <tr>
+    <td><code>prima</code></td>
+    <td>Caught a stray <code>21:</code> token bug, finalize-pr.yml shipped as draft PR #12</td>
+    <td>Awaiting merge</td>
+  </tr>
+  <tr>
+    <td><code>radix</code></td>
+    <td>Router lifecycle refactor + 2 CVE patches reviewed; diff too large to fully verify the lockfile</td>
+    <td>Maintainer spot-check recommended</td>
+  </tr>
+</table>
+
+<h2>Field Notes</h2>
+<blockquote>
+  "Dark is nessing — dark as a verb, dark actively being its own substance."
+</blockquote>
+<blockquote>
+  "The work is not only building a deck. The work is building Cards of Deck."
+</blockquote>
+<blockquote>
+  "One more volley." — every retired hand that raises it once more before
+  standing down for good.
+</blockquote>
+
+<h2>When Is It Safe to Archive?</h2>
+<p>
+  Not at the blue "open" dot. Not at draft. A conversation — like a PR —
+  is safe to set down once the work is actually <strong>merged</strong>,
+  ideally carrying the <code>finalized</code> label. Anything earlier is
+  still a comment period, and comment periods don't get filed away.
+</p>
+
+<footer>
+  Mostly harmless. Towel optional. Last updated alongside the
+  finalize-pr rollout, branch <code>claude/loving-babbage-t1RXD</code>.
+</footer>
+
+</div>
+</body>
+</html>

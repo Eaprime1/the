@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# THEE — The Door. Receives the unknown. Asks: The what?
+# THEE — The Door. Receives the unknown. Asks: The what? 🍥
 set -euo pipefail
 
 INCOMING="intake/incoming.md"
@@ -18,7 +18,8 @@ if [[ ! -f "$INCOMING" ]]; then
   exit 1
 fi
 
-printf "\n---\nreceived: %s\nfragment: %s\nthe what:\nyod mark:\nember:     warm\n---\n" "$TIMESTAMP" "$FRAGMENT" >> "$INCOMING"
+FRAGMENT_BLOCK=$(printf '%s\n' "$FRAGMENT" | sed 's/^/  /')
+printf "\n---\nreceived: %s\nfragment: |-\n%s\nthe what:\nyod mark:\nember:     warm\n---\n" "$TIMESTAMP" "$FRAGMENT_BLOCK" >> "$INCOMING"
 
 echo ""
 echo "THEE received: \"$FRAGMENT\""

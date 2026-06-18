@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Scan for distressed lexemes — patterns that signal a fragment needs attention.
+# Scan for distressed lexemes — patterns that signal a fragment needs attention. 🍥
 # Not a linter. A listening tool.
 set -euo pipefail
 
@@ -16,6 +16,11 @@ PATTERNS=(
   "???"
   "UNKNOWN"
   "My Prima Terminal"
+  "[CONCEPT NAME]"
+  "YYYY-MM-DD"
+  "[current prime state]"
+  "[contributor handle or name]"
+  "[one-line tagline]"
 )
 
 echo "Scanning for distressed lexemes in: $ROOT"
@@ -23,9 +28,8 @@ echo ""
 
 FOUND=0
 for PATTERN in "${PATTERNS[@]}"; do
-  MATCHES=$(grep -rFin -- "$PATTERN" "$ROOT" \
-    --include="*.md" --include="*.sh" --include="*.yaml" --include="*.json" \
-    --exclude-dir=".git" 2>/dev/null || true)
+  MATCHES=$(grep -rFin --include="*.md" --include="*.sh" --include="*.yaml" --include="*.json" \
+    --exclude-dir=".git" -- "$PATTERN" "$ROOT" 2>/dev/null || true)
   if [[ -n "$MATCHES" ]]; then
     echo "  [$PATTERN]"
     echo "$MATCHES" | sed 's/^/    /'
